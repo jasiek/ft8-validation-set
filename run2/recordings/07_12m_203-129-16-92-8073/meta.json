@@ -1,0 +1,17 @@
+{
+ "url": "http://203.129.16.92:8073/",
+ "band": "12m",
+ "freq_khz": 24915.0,
+ "station": "VK2MB: Manly-Warringah Radio Society KiwiSDR | Sydney, New South Wales, Australia",
+ "lat": -33.679955,
+ "lon": 151.231151,
+ "probe_decodes": 5,
+ "probe_sample": [
+  "222730  -9  0.8 2015 ~  CQ JE2EHP PM85",
+  "222730   6  0.5 2349 ~  ZZ5UNO JA0EOK R-03",
+  "222730  -6  0.4 2139 ~  KF5ALL JA0IAA PM97",
+  "222730 -18  0.4 1448 ~  CQ JR4MXP PM75",
+  "222730 -13  0.4  809 ~  N6AR JR3GPP PM74"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/07_12m_203-129-16-92-8073"
+}

@@ -1,0 +1,47 @@
+17:14:26 probing 10 receivers from /Users/jps/tmp/ft8-validation-set/../ft8-training-data/selection.json
+17:14:37   http://178.115.248.93:8073/ 40m: KiwiError('too_busy=4')
+17:14:50     3 decodes  20m  http://zl2tpq.proxy.kiwisdr.com:8073/  (local 10.0h)
+17:14:51    36 decodes  20m  http://kiwisdr.itfais.com:8073/  (local 16.8h)
+17:14:52    15 decodes  20m  http://wartli.proxy.kiwisdr.com:8073/  (local 7.5h)
+17:14:52    36 decodes  20m  http://kiwisdr.k1ra.us:8073/  (local 17.0h)
+17:14:52    35 decodes  20m  http://kx4az2.proxy.kiwisdr.com:8073/  (local 16.7h)
+17:14:52    33 decodes  20m  http://sigmasdr.ddns.net:8075/  (local 17.4h)
+17:14:53    26 decodes  40m  http://kiwisdr.dynpc.net:8073/  (local 22.9h)
+17:15:07    30 decodes  20m  https://listen.sadarc.org/  (local 8.0h)
+17:15:19     1 decodes  30m  http://wartli.proxy.kiwisdr.com:8073/  (local 7.5h)
+17:15:20    10 decodes  30m  http://kx4az2.proxy.kiwisdr.com:8073/  (local 16.7h)
+17:15:20    11 decodes  30m  http://sigmasdr.ddns.net:8075/  (local 17.4h)
+17:15:20    12 decodes  30m  http://kiwisdr.itfais.com:8073/  (local 16.8h)
+17:15:20     6 decodes  17m  http://zl2tpq.proxy.kiwisdr.com:8073/  (local 10.0h)
+17:15:21    17 decodes  30m  http://kiwisdr.k1ra.us:8073/  (local 17.1h)
+17:15:21     0 decodes  20m  http://kk6pr.ddns.net:8077/  (local 14.2h)
+17:15:24    42 decodes  80m  http://kiwisdr.dynpc.net:8073/  (local 22.9h)
+17:15:35    11 decodes  30m  https://listen.sadarc.org/  (local 8.0h)
+17:15:48     0 decodes  30m  http://kiwisdr.dynpc.net:8073/  (local 22.9h)
+17:15:50     7 decodes  40m  http://wartli.proxy.kiwisdr.com:8073/  (local 7.5h)
+17:15:50    11 decodes  15m  http://zl2tpq.proxy.kiwisdr.com:8073/  (local 10.0h)
+17:15:53    31 decodes  40m  http://kx4az2.proxy.kiwisdr.com:8073/  (local 16.7h)
+17:15:54    39 decodes  40m  http://kiwisdr.k1ra.us:8073/  (local 17.1h)
+17:15:54    34 decodes  40m  http://kiwisdr.itfais.com:8073/  (local 16.8h)
+17:15:54    41 decodes  40m  http://sigmasdr.ddns.net:8075/  (local 17.4h)
+17:16:03     0 decodes  40m  https://listen.sadarc.org/  (local 8.0h)
+17:16:16     0 decodes  17m  http://kk6pr.ddns.net:8077/  (local 14.2h)
+17:16:19     0 decodes  20m  http://kiwisdr.dynpc.net:8073/  (local 22.9h)
+17:16:20     4 decodes  10m  http://zl2tpq.proxy.kiwisdr.com:8073/  (local 10.1h)
+17:16:20     9 decodes  17m  http://wartli.proxy.kiwisdr.com:8073/  (local 7.5h)
+17:16:20    10 decodes  17m  http://kx4az2.proxy.kiwisdr.com:8073/  (local 16.7h)
+17:16:22    22 decodes  17m  http://kiwisdr.itfais.com:8073/  (local 16.8h)
+17:16:22    22 decodes  17m  http://sigmasdr.ddns.net:8075/  (local 17.5h)
+17:16:22    24 decodes  17m  http://kiwisdr.k1ra.us:8073/  (local 17.1h)
+17:16:36    11 decodes  17m  https://listen.sadarc.org/  (local 8.0h)
+17:17:04     0 decodes  15m  http://kk6pr.ddns.net:8077/  (local 14.2h)
+17:17:34    12 decodes  10m  http://kk6pr.ddns.net:8077/  (local 14.2h)
+17:17:34 chosen 80m   42  http://kiwisdr.dynpc.net:8073/  Hamburg Metropol south | Germany
+17:17:34 chosen 40m   41  http://sigmasdr.ddns.net:8075/  N1NTE-3 - MA/CT Border, USA
+17:17:34 chosen 40m   39  http://kiwisdr.k1ra.us:8073/  0-30 MHz SDR, K1RA/KW4VA Virginia, USA
+17:17:34 chosen 20m   36  http://kiwisdr.itfais.com:8073/  KT4RS 0-30 MHz KiwiSDR | Laurel Springs, Nort
+17:17:34 chosen 20m   35  http://kx4az2.proxy.kiwisdr.com:8073/  0-30 MHz SDR | Athens, Georgia (USA)
+17:17:34 chosen 10m   12  http://kk6pr.ddns.net:8077/  0-30 MHz SDR, KK6PR Crooked River Ranch, OR -
+17:17:34 chosen 15m   11  http://zl2tpq.proxy.kiwisdr.com:8073/  KiwiSDR2 ZL2TPQ Hastings New Zealand
+17:17:34 chosen 30m   11  https://listen.sadarc.org/  VK3SOL-Strathbogie Rx.3 Victoria, Australia. 
+17:17:34 chosen 17m    9  http://wartli.proxy.kiwisdr.com:8073/  0-30 MHz SDR | Hammond, South Australia

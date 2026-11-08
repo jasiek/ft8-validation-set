@@ -1,0 +1,31 @@
+spots indexed: 920203 for 5542 (band, call) pairs; reporters per band: 10m=797, 15m=1290, 17m=919, 20m=1861, 30m=911, 40m=1799, 80m=982
+
+station                                    band   dec    slot  active  repeat  unconf     n/a  conf%
+00_80m_kiwisdr-dynpc-net-8073               80m  3864    2880     936       0       0      48  100.0%
+01_40m_sigmasdr-ddns-net-8075               40m  5070    4042     976       0       2      50  100.0%
+02_40m_kiwisdr-k1ra-us-8073                 40m  4980    3968     962       0       5      45  99.9%
+03_20m_kiwisdr-itfais-com-8073              20m  4510    3620     866       2       2      20  100.0%
+04_20m_kx4az2-proxy-kiwisdr-com-8073        20m  4459    3604     827       7       1      20  100.0%
+05_10m_kk6pr-ddns-net-8077                  10m  1093     637     455       0       0       1  100.0%
+06_15m_zl2tpq-proxy-kiwisdr-com-8073        15m  1560    1121     398      25       1      15  99.9%
+07_30m_listen-sadarc-org                    30m   652     463     173       0       0      16  100.0%
+08_17m_wartli-proxy-kiwisdr-com-8073        17m  1542    1157     330       0       2      53  99.9%
+TOTAL                                           27730   21492    5923      34      13     268  100.0%
+
+of checkable decodes: slot-confirmed 78.3%, active-only 21.6%, repeat-only 0.1%, unconfirmed 0.0%
+per-receiver freq offset vs spots (Hz): 00=+0, 01=+0, 02=+0, 03=+0, 04=+0, 05=+0, 06=+0, 07=-2, 08=-4
+
+unconfirmed:
+  01_40m_sigmasdr-ddns-net-8075  261104_222915   321.0  <...> E62LES 599 4936
+  01_40m_sigmasdr-ddns-net-8075  261104_223630  1006.0  PI6WGZ OG6WYN R 539 7556
+  02_40m_kiwisdr-k1ra-us-8073    261104_221945  2792.0  <...> 64L/HSEVBUA 73
+  02_40m_kiwisdr-k1ra-us-8073    261104_222330  1568.0  9L7KVZ GC8KU RR37
+  02_40m_kiwisdr-k1ra-us-8073    261104_222415  1646.0  CQ XO7FYG EA52
+  02_40m_kiwisdr-k1ra-us-8073    261104_223215  1082.0  CQ EA5SFD IN08
+  02_40m_kiwisdr-k1ra-us-8073    261104_223400  1096.0  CQ_AN MA7JWM 559 3753
+  03_20m_kiwisdr-itfais-com-8073 261104_222700   627.0  1B9FZN WE5UTT R NE17
+  03_20m_kiwisdr-itfais-com-8073 261104_223845   678.0  6C2PUD E94YDO/P R FE07
+  04_20m_kx4az2-proxy-kiwisdr-co 261104_222445  1194.0  8I5RA NS8VJV/P BN63
+  06_15m_zl2tpq-proxy-kiwisdr-co 261104_222730  2981.0  R0XPW HQ4CKE 529 7944
+  08_17m_wartli-proxy-kiwisdr-co 261104_224245  1267.0  CQ MH1EL CB51
+  08_17m_wartli-proxy-kiwisdr-co 261104_224430  2390.0  <...> 9S8YGQ R 559 X03

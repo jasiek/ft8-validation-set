@@ -1,0 +1,17 @@
+{
+ "url": "http://kiwi-kuo.aprs.fi:8073/",
+ "band": "80m",
+ "freq_khz": 3573.0,
+ "station": "0-30 MHz KiwiSDR \u2022 Bonito Megaloop FX \u2022 aprs.fi, Kuopio, Finland, Europe",
+ "lat": 63.075,
+ "lon": 27.275,
+ "probe_decodes": 32,
+ "probe_sample": [
+  "222730  11  0.3  397 ~  DO9POL OE5TXF JN78",
+  "222730  12  0.2 2306 ~  BD4ITM 5B4AMM -05",
+  "222730  20  0.8 2894 ~  CQ DX OK2BUZ JN99",
+  "222730   5  0.3 1005 ~  CQ F4CTJ JN09",
+  "222730   3  0.2 1605 ~  CT2KNA SM3LSO JP81"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/08_80m_kiwi-kuo-aprs-fi-8073"
+}

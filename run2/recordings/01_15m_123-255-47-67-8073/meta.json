@@ -1,0 +1,17 @@
+{
+ "url": "http://123.255.47.67:8073/",
+ "band": "15m",
+ "freq_khz": 21074.0,
+ "station": "0-30 MHz SDR, ZL2VH Branch 63 New Zealand | Mount Climie, Upper Hutt NZ",
+ "lat": -41.150409,
+ "lon": 175.143457,
+ "probe_decodes": 38,
+ "probe_sample": [
+  "222730  -9  0.2 1510 ~  CQ PU2TUM GG66",
+  "222730  12  0.2 1006 ~  JA4LXY DS4AKP PM34",
+  "222730   8  0.3 2540 ~  CQ JA0DKL PM97",
+  "222730   0  0.1 2143 ~  CQ VK2AAI QF56",
+  "222730   1  0.4 1322 ~  CQ CE4HG FF44"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/01_15m_123-255-47-67-8073"
+}

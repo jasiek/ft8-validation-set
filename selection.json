@@ -1,0 +1,149 @@
+{
+ "probed_utc": "2026-11-04T22:17:34.248908+00:00",
+ "chosen": [
+  {
+   "url": "http://kiwisdr.dynpc.net:8073/",
+   "band": "80m",
+   "freq_khz": 3573.0,
+   "station": "Hamburg Metropol south | Germany",
+   "lat": 53.43,
+   "lon": 9.77,
+   "probe_decodes": 42,
+   "probe_sample": [
+    "221500  16  0.2 1281 ~  LZ911TD <...> 73",
+    "221500  -3  0.1 2131 ~  CQ 9A5E JN75",
+    "221500   2  0.2 2306 ~  CQ DX 5B4AMM KM64",
+    "221500  11  0.3  346 ~  RX3ASQ SN9Q +00",
+    "221500  -7  0.1 1913 ~  G4DBW S50XX RR73"
+   ]
+  },
+  {
+   "url": "http://sigmasdr.ddns.net:8075/",
+   "band": "40m",
+   "freq_khz": 7074.0,
+   "station": "N1NTE-3 - MA/CT Border, USA",
+   "lat": 42.033943,
+   "lon": -72.140461,
+   "probe_decodes": 41,
+   "probe_sample": [
+    "221530  -5  0.2 1438 ~  G4MZV HA1BF -11",
+    "221530  10  0.1 3001 ~  IU7UTX KO4FQW FM18",
+    "221530   8  0.2 1347 ~  PP5GER AD9AR",
+    "221530  24  0.1  477 ~  CQ KD8WBZ EN81",
+    "221530   4  0.2 1999 ~  CQ AA4NP EL98"
+   ]
+  },
+  {
+   "url": "http://kiwisdr.k1ra.us:8073/",
+   "band": "40m",
+   "freq_khz": 7074.0,
+   "station": "0-30 MHz SDR, K1RA/KW4VA Virginia, USA",
+   "lat": 38.742405,
+   "lon": -77.797874,
+   "probe_decodes": 39,
+   "probe_sample": [
+    "221530  29  0.1  556 ~  SX200H <...> RR73",
+    "221530   7  0.1 1300 ~  VE3FSN KT4TV FM07",
+    "221530   1  0.2 2000 ~  CQ AA4NP EL98",
+    "221530   3  0.1 2581 ~  N3HUG KE8ESJ EM79",
+    "221530  17  0.1 1139 ~  VE3FSN AB8KP 73"
+   ]
+  },
+  {
+   "url": "http://kiwisdr.itfais.com:8073/",
+   "band": "20m",
+   "freq_khz": 14074.0,
+   "station": "KT4RS 0-30 MHz KiwiSDR | Laurel Springs, North Carolina, USA",
+   "lat": 36.39,
+   "lon": -81.3,
+   "probe_decodes": 36,
+   "probe_sample": [
+    "221430  10  0.6 1502 ~  K4TMR K5RJM EM12",
+    "221430  23 -0.0 2929 ~  N7PHY AC5O EL49",
+    "221430   8  0.1 1403 ~  K3ATA WC5J -21",
+    "221430   9  0.1  557 ~  HP3AXL N4NTY EL87",
+    "221430   9  0.3 2538 ~  9A7KT KA9FOX EN43"
+   ]
+  },
+  {
+   "url": "http://kx4az2.proxy.kiwisdr.com:8073/",
+   "band": "20m",
+   "freq_khz": 14074.0,
+   "station": "0-30 MHz SDR | Athens, Georgia (USA)",
+   "lat": 33.94371,
+   "lon": -83.412307,
+   "probe_decodes": 35,
+   "probe_sample": [
+    "221430   7  0.7 1503 ~  K4TMR K5RJM EM12",
+    "221430   9  0.2 2694 ~  VE7BEU W2RWC FN03",
+    "221430   8 -0.0 2484 ~  CQ VA3ZYW EO31",
+    "221430   3  0.1  438 ~  XE3ISS K5JSW 73",
+    "221430   6 -0.5 1806 ~  N7PHY NE1D FN32"
+   ]
+  },
+  {
+   "url": "http://kk6pr.ddns.net:8077/",
+   "band": "10m",
+   "freq_khz": 28074.0,
+   "station": "0-30 MHz SDR, KK6PR Crooked River Ranch, OR - USA",
+   "lat": 44.4263,
+   "lon": -121.2623,
+   "probe_decodes": 12,
+   "probe_sample": [
+    "221715  -3 -1.2 1501 ~  CQ PY2ERP GG58",
+    "221715  -1  0.4 1665 ~  PY1CIA KI4YKS EM61",
+    "221715  -3  0.2  827 ~  HI7S PR2PB 73",
+    "221715  10  0.2  539 ~  N7RTX K4RCW -17",
+    "221715  -3  0.2 1886 ~  N4LSP PU5JVA 73"
+   ]
+  },
+  {
+   "url": "http://zl2tpq.proxy.kiwisdr.com:8073/",
+   "band": "15m",
+   "freq_khz": 21074.0,
+   "station": "KiwiSDR2 ZL2TPQ Hastings New Zealand",
+   "lat": -39.64573,
+   "lon": 176.823729,
+   "probe_decodes": 11,
+   "probe_sample": [
+    "221530 -17  0.2 1871 ~  KF0JJF JH1LPZ PM95",
+    "221530   9  0.2 2624 ~  KJ5SC JR9OPJ PM85",
+    "221530 -16  0.2 1679 ~  UA0FF WB7AEU +12",
+    "221530 -10 -0.2 2357 ~  CQ N6YYZ CM99",
+    "221530  -8  0.3  553 ~  W7PAQ JF6TLZ -12"
+   ]
+  },
+  {
+   "url": "https://listen.sadarc.org/",
+   "band": "30m",
+   "freq_khz": 10136.0,
+   "station": "VK3SOL-Strathbogie Rx.3 Victoria, Australia. [LW,MW,HF]",
+   "lat": -36.852596,
+   "lon": 145.738417,
+   "probe_decodes": 11,
+   "probe_sample": [
+    "221515  -3  0.5 2065 ~  CQ W1ARY FN31",
+    "221515  -7  0.4 1219 ~  KC4SWL W4LUF 73",
+    "221515  -1  0.3  400 ~  CT3HQ KE8ZDV R-12",
+    "221515  -1  0.6  960 ~  LW2EDM KQ4IJJ FM17",
+    "221515   2  0.3 2564 ~  KC0INQ NR0K +17"
+   ]
+  },
+  {
+   "url": "http://wartli.proxy.kiwisdr.com:8073/",
+   "band": "17m",
+   "freq_khz": 18100.0,
+   "station": "0-30 MHz SDR | Hammond, South Australia",
+   "lat": -32.520966,
+   "lon": 138.31399,
+   "probe_decodes": 9,
+   "probe_sample": [
+    "221600  14  0.2  916 ~  KD9WI JA2KGH 73",
+    "221600  12  0.2  514 ~  WA5HOD FW3GT +00",
+    "221600   5 -0.0 1012 ~  VK4LW JL1JWL 73",
+    "221600   2  0.4  600 ~  W0JMP RR73; KZ9DX <...> -08",
+    "221600   3  0.3  451 ~  VE5SD JA4JKO PM64"
+   ]
+  }
+ ]
+}

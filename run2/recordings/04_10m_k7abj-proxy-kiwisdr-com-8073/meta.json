@@ -1,0 +1,17 @@
+{
+ "url": "http://k7abj.proxy.kiwisdr.com:8073/",
+ "band": "10m",
+ "freq_khz": 28074.0,
+ "station": "Lake Chelan LCARC McNiel ",
+ "lat": 47.85,
+ "lon": -119.87,
+ "probe_decodes": 9,
+ "probe_sample": [
+  "222730  24  0.2 2997 ~  PY2ERP KB8SRX EN82",
+  "222730  -4  0.3 1189 ~  KJ7DFG W4RRA -09",
+  "222730  -2  0.4  949 ~  CQ W2RLW FN20",
+  "222730  -6  0.2 1427 ~  PY2PQT K4HPS -04",
+  "222730  -7  0.2 1340 ~  CQ LU5DF GF02"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/04_10m_k7abj-proxy-kiwisdr-com-8073"
+}

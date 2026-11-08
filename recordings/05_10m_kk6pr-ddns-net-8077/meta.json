@@ -1,0 +1,17 @@
+{
+ "url": "http://kk6pr.ddns.net:8077/",
+ "band": "10m",
+ "freq_khz": 28074.0,
+ "station": "0-30 MHz SDR, KK6PR Crooked River Ranch, OR - USA",
+ "lat": 44.4263,
+ "lon": -121.2623,
+ "probe_decodes": 12,
+ "probe_sample": [
+  "221715  -3 -1.2 1501 ~  CQ PY2ERP GG58",
+  "221715  -1  0.4 1665 ~  PY1CIA KI4YKS EM61",
+  "221715  -3  0.2  827 ~  HI7S PR2PB 73",
+  "221715  10  0.2  539 ~  N7RTX K4RCW -17",
+  "221715  -3  0.2 1886 ~  N4LSP PU5JVA 73"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/recordings/05_10m_kk6pr-ddns-net-8077"
+}

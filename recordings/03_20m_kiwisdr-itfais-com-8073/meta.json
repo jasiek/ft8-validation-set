@@ -1,0 +1,17 @@
+{
+ "url": "http://kiwisdr.itfais.com:8073/",
+ "band": "20m",
+ "freq_khz": 14074.0,
+ "station": "KT4RS 0-30 MHz KiwiSDR | Laurel Springs, North Carolina, USA",
+ "lat": 36.39,
+ "lon": -81.3,
+ "probe_decodes": 36,
+ "probe_sample": [
+  "221430  10  0.6 1502 ~  K4TMR K5RJM EM12",
+  "221430  23 -0.0 2929 ~  N7PHY AC5O EL49",
+  "221430   8  0.1 1403 ~  K3ATA WC5J -21",
+  "221430   9  0.1  557 ~  HP3AXL N4NTY EL87",
+  "221430   9  0.3 2538 ~  9A7KT KA9FOX EN43"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/recordings/03_20m_kiwisdr-itfais-com-8073"
+}

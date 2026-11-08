@@ -1,0 +1,17 @@
+{
+ "url": "http://22485.proxy.kiwisdr.com:8073/",
+ "band": "20m",
+ "freq_khz": 14074.0,
+ "station": "0-30 MHz SDR at N6LED | Madera, California, USA",
+ "lat": 37.02,
+ "lon": -120.06,
+ "probe_decodes": 32,
+ "probe_sample": [
+  "222730 -13  1.1 1502 ~  KD2QWM K5RJM R-05",
+  "222730  17  0.3 1091 ~  CQ W7WKR CN97",
+  "222730   0  0.2  631 ~  XQ3SK WD9GVY EN61",
+  "222730  -4  0.2 2396 ~  KF0ZDB KF9UG EN71",
+  "222730  -2 -0.1  498 ~  KN4PAH KF0ARM RR73"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/03_20m_22485-proxy-kiwisdr-com-8073"
+}

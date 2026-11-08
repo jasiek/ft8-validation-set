@@ -1,0 +1,34 @@
+spots indexed: 852493 for 5330 (band, call) pairs; reporters per band: 10m=763, 12m=456, 15m=1309, 160m=453, 17m=898, 20m=1830, 40m=1793, 80m=959
+
+station                                    band   dec    slot  active  repeat  unconf     n/a  conf%
+00_40m_22178-proxy-kiwisdr-com-8073         40m  4584    3669     881       0       3      31  99.9%
+01_15m_123-255-47-67-8073                   15m  4236    2958    1242       0       3      33  99.9%
+02_80m_82-65-236-171-8073                   80m  3655    2665     883      12       2      93  99.9%
+03_20m_22485-proxy-kiwisdr-com-8073         20m  4528    3652     848       0       2      26  100.0%
+04_10m_k7abj-proxy-kiwisdr-com-8073         10m   965     541     416       0       1       7  99.9%
+05_17m_149-154-30-42-8073                   17m  1438    1039     356       0       3      40  99.8%
+06_160m_oh3aa-dy-fi-18073                  160m   851     549     288       0       1      13  99.9%
+07_12m_203-129-16-92-8073                   12m   357     221     133       0       1       2  99.7%
+08_80m_kiwi-kuo-aprs-fi-8073                80m  3677    2699     887       3       0      88  100.0%
+TOTAL                                           24291   17993    5934      15      16     333  99.9%
+
+of checkable decodes: slot-confirmed 75.1%, active-only 24.8%, repeat-only 0.1%, unconfirmed 0.1%
+per-receiver freq offset vs spots (Hz): 00=-48, 01=+0, 02=+0, 03=+0, 04=+0, 05=-129, 06=+0, 07=+0, 08=+0
+
+unconfirmed:
+  00_40m_22178-proxy-kiwisdr-com 261104_223515  1191.0  CQ H47XGF KN14
+  00_40m_22178-proxy-kiwisdr-com 261104_224245  2771.0  CQ NR1TCR OB82
+  00_40m_22178-proxy-kiwisdr-com 261104_224500  2980.0  CQ D96EFI AP49
+  01_15m_123-255-47-67-8073      261104_223745  1061.0  TG7PHT 1I2LIB OB67
+  01_15m_123-255-47-67-8073      261104_224845  2296.0  CQ 2G1GUX FA31
+  01_15m_123-255-47-67-8073      261104_224900   674.0  MH8RPQ TE3FAT GD53
+  02_80m_82-65-236-171-8073      261104_224715   802.0  RE9XZW DO5SBW 599 X40
+  02_80m_82-65-236-171-8073      261104_225115  2371.0  K69FKO GZ5EPE/P HE91
+  03_20m_22485-proxy-kiwisdr-com 261104_223515   822.0  XA3NRX/P KD1CHX RK86
+  03_20m_22485-proxy-kiwisdr-com 261104_224000   295.0  TT9VIW J52TXE 6D PE
+  04_10m_k7abj-proxy-kiwisdr-com 261104_223000  1283.0  MG6LLO FR8SPE 539 4090
+  05_17m_149-154-30-42-8073      261104_223430  1321.0  KE3EJG Z2NIR/P HM10
+  05_17m_149-154-30-42-8073      261104_223430   719.0  PU8RCP 9I1WIC/P IH33
+  05_17m_149-154-30-42-8073      261104_224600   459.0  G71HUW MK1CX 529 1744
+  06_160m_oh3aa-dy-fi-18073      261104_225615   541.0  GE2EDD 5Y4KKW GP53
+  07_12m_203-129-16-92-8073      261104_225630   509.0  CQ ML6MYE HM29

@@ -1,0 +1,17 @@
+{
+ "url": "http://kiwisdr.dynpc.net:8073/",
+ "band": "80m",
+ "freq_khz": 3573.0,
+ "station": "Hamburg Metropol south | Germany",
+ "lat": 53.43,
+ "lon": 9.77,
+ "probe_decodes": 42,
+ "probe_sample": [
+  "221500  16  0.2 1281 ~  LZ911TD <...> 73",
+  "221500  -3  0.1 2131 ~  CQ 9A5E JN75",
+  "221500   2  0.2 2306 ~  CQ DX 5B4AMM KM64",
+  "221500  11  0.3  346 ~  RX3ASQ SN9Q +00",
+  "221500  -7  0.1 1913 ~  G4DBW S50XX RR73"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/recordings/00_80m_kiwisdr-dynpc-net-8073"
+}

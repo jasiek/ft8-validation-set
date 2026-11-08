@@ -1,0 +1,17 @@
+{
+ "url": "http://kx4az2.proxy.kiwisdr.com:8073/",
+ "band": "20m",
+ "freq_khz": 14074.0,
+ "station": "0-30 MHz SDR | Athens, Georgia (USA)",
+ "lat": 33.94371,
+ "lon": -83.412307,
+ "probe_decodes": 35,
+ "probe_sample": [
+  "221430   7  0.7 1503 ~  K4TMR K5RJM EM12",
+  "221430   9  0.2 2694 ~  VE7BEU W2RWC FN03",
+  "221430   8 -0.0 2484 ~  CQ VA3ZYW EO31",
+  "221430   3  0.1  438 ~  XE3ISS K5JSW 73",
+  "221430   6 -0.5 1806 ~  N7PHY NE1D FN32"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/recordings/04_20m_kx4az2-proxy-kiwisdr-com-8073"
+}

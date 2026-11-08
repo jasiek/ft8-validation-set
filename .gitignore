@@ -1,0 +1,4 @@
+# unpacked by tools/datarepo.py unpack
+*.wav
+*.jsonl
+__pycache__/

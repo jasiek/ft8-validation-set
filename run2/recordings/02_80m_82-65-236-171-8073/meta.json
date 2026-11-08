@@ -1,0 +1,17 @@
+{
+ "url": "http://82.65.236.171:8073/",
+ "band": "80m",
+ "freq_khz": 3573.0,
+ "station": "0-30 MHz SDR || F5NKP || nr Paris,  France",
+ "lat": 48.822431,
+ "lon": 2.252981,
+ "probe_decodes": 33,
+ "probe_sample": [
+  "222730  27 -0.6 2713 ~  IZ0FYO IU2THY JN45",
+  "222730  33  0.8 2894 ~  CQ DX OK2BUZ JN99",
+  "222730  11  0.3 1005 ~  CQ F4CTJ JN09",
+  "222730  22  0.2  396 ~  DO9POL OE5TXF JN78",
+  "222730   8  0.6  600 ~  SV5BYP IW3RUA JN66"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/02_80m_82-65-236-171-8073"
+}

@@ -1,0 +1,151 @@
+{
+ "probed_utc": "2026-11-04T22:28:07.713646+00:00",
+ "source": "receiverbook-fresh",
+ "excluded_training_sites": true,
+ "chosen": [
+  {
+   "url": "http://22178.proxy.kiwisdr.com:8073/",
+   "band": "40m",
+   "freq_khz": 7074.0,
+   "station": "K8MLM 0-30 MHz SDR | Timberline, Mountain, WV, USA FM19hb",
+   "lat": 39.04973,
+   "lon": -79.38263,
+   "probe_decodes": 43,
+   "probe_sample": [
+    "222730  12 -0.1 1501 ~  S58N VE3JPP FN03",
+    "222730   9  0.1 1213 ~  CQ DX NA6Y EL97",
+    "222730  13  0.3  395 ~  DL2KDF W2GHD -19",
+    "222730   8  0.2 2646 ~  CQ KE8ESJ EM79",
+    "222730   7  0.1 1155 ~  KG4OLE KA8CLN 73"
+   ]
+  },
+  {
+   "url": "http://123.255.47.67:8073/",
+   "band": "15m",
+   "freq_khz": 21074.0,
+   "station": "0-30 MHz SDR, ZL2VH Branch 63 New Zealand | Mount Climie, Upper Hutt NZ",
+   "lat": -41.150409,
+   "lon": 175.143457,
+   "probe_decodes": 38,
+   "probe_sample": [
+    "222730  -9  0.2 1510 ~  CQ PU2TUM GG66",
+    "222730  12  0.2 1006 ~  JA4LXY DS4AKP PM34",
+    "222730   8  0.3 2540 ~  CQ JA0DKL PM97",
+    "222730   0  0.1 2143 ~  CQ VK2AAI QF56",
+    "222730   1  0.4 1322 ~  CQ CE4HG FF44"
+   ]
+  },
+  {
+   "url": "http://82.65.236.171:8073/",
+   "band": "80m",
+   "freq_khz": 3573.0,
+   "station": "0-30 MHz SDR || F5NKP || nr Paris,  France",
+   "lat": 48.822431,
+   "lon": 2.252981,
+   "probe_decodes": 33,
+   "probe_sample": [
+    "222730  27 -0.6 2713 ~  IZ0FYO IU2THY JN45",
+    "222730  33  0.8 2894 ~  CQ DX OK2BUZ JN99",
+    "222730  11  0.3 1005 ~  CQ F4CTJ JN09",
+    "222730  22  0.2  396 ~  DO9POL OE5TXF JN78",
+    "222730   8  0.6  600 ~  SV5BYP IW3RUA JN66"
+   ]
+  },
+  {
+   "url": "http://22485.proxy.kiwisdr.com:8073/",
+   "band": "20m",
+   "freq_khz": 14074.0,
+   "station": "0-30 MHz SDR at N6LED | Madera, California, USA",
+   "lat": 37.02,
+   "lon": -120.06,
+   "probe_decodes": 32,
+   "probe_sample": [
+    "222730 -13  1.1 1502 ~  KD2QWM K5RJM R-05",
+    "222730  17  0.3 1091 ~  CQ W7WKR CN97",
+    "222730   0  0.2  631 ~  XQ3SK WD9GVY EN61",
+    "222730  -4  0.2 2396 ~  KF0ZDB KF9UG EN71",
+    "222730  -2 -0.1  498 ~  KN4PAH KF0ARM RR73"
+   ]
+  },
+  {
+   "url": "http://k7abj.proxy.kiwisdr.com:8073/",
+   "band": "10m",
+   "freq_khz": 28074.0,
+   "station": "Lake Chelan LCARC McNiel ",
+   "lat": 47.85,
+   "lon": -119.87,
+   "probe_decodes": 9,
+   "probe_sample": [
+    "222730  24  0.2 2997 ~  PY2ERP KB8SRX EN82",
+    "222730  -4  0.3 1189 ~  KJ7DFG W4RRA -09",
+    "222730  -2  0.4  949 ~  CQ W2RLW FN20",
+    "222730  -6  0.2 1427 ~  PY2PQT K4HPS -04",
+    "222730  -7  0.2 1340 ~  CQ LU5DF GF02"
+   ]
+  },
+  {
+   "url": "http://149.154.30.42:8073/",
+   "band": "17m",
+   "freq_khz": 18100.0,
+   "station": "0-30 MHz SDR | Omaha, Nebraska",
+   "lat": 41.282445,
+   "lon": -96.179666,
+   "probe_decodes": 8,
+   "probe_sample": [
+    "222730   1  0.1  869 ~  CQ WD4OOZ EM84",
+    "222730  -1  0.5 1205 ~  CQ WT1W EM62",
+    "222730 -10  0.1 1372 ~  W5ORC W3GO FN20",
+    "222730 -11  0.1  677 ~  CQ KN1B EL98",
+    "222730   2  0.9 2857 ~  LU3RAA AK4T EM74"
+   ]
+  },
+  {
+   "url": "http://oh3aa.dy.fi:18073/",
+   "band": "160m",
+   "freq_khz": 1840.0,
+   "station": "OH3AA Hameenlinnan Radioamatoorit KiwiSDR 0-30 MHz | H\u00e4meenlinna, Finland",
+   "lat": 60.950613,
+   "lon": 24.483177,
+   "probe_decodes": 6,
+   "probe_sample": [
+    "222730   4 -0.1 1495 ~  CQ EO210WLP",
+    "222730   1 -2.2 1701 ~  OH7ML SO3O JO92",
+    "222730   5  0.2 1585 ~  CQ DJ5IW JN67",
+    "222730   4  0.2 2269 ~  EA1ARJ HB9CXZ JN46",
+    "222730 -10  0.2 1900 ~  SQ5N UX7QV R-18"
+   ]
+  },
+  {
+   "url": "http://203.129.16.92:8073/",
+   "band": "12m",
+   "freq_khz": 24915.0,
+   "station": "VK2MB: Manly-Warringah Radio Society KiwiSDR | Sydney, New South Wales, Australia",
+   "lat": -33.679955,
+   "lon": 151.231151,
+   "probe_decodes": 5,
+   "probe_sample": [
+    "222730  -9  0.8 2015 ~  CQ JE2EHP PM85",
+    "222730   6  0.5 2349 ~  ZZ5UNO JA0EOK R-03",
+    "222730  -6  0.4 2139 ~  KF5ALL JA0IAA PM97",
+    "222730 -18  0.4 1448 ~  CQ JR4MXP PM75",
+    "222730 -13  0.4  809 ~  N6AR JR3GPP PM74"
+   ]
+  },
+  {
+   "url": "http://kiwi-kuo.aprs.fi:8073/",
+   "band": "80m",
+   "freq_khz": 3573.0,
+   "station": "0-30 MHz KiwiSDR \u2022 Bonito Megaloop FX \u2022 aprs.fi, Kuopio, Finland, Europe",
+   "lat": 63.075,
+   "lon": 27.275,
+   "probe_decodes": 32,
+   "probe_sample": [
+    "222730  11  0.3  397 ~  DO9POL OE5TXF JN78",
+    "222730  12  0.2 2306 ~  BD4ITM 5B4AMM -05",
+    "222730  20  0.8 2894 ~  CQ DX OK2BUZ JN99",
+    "222730   5  0.3 1005 ~  CQ F4CTJ JN09",
+    "222730   3  0.2 1605 ~  CT2KNA SM3LSO JP81"
+   ]
+  }
+ ]
+}

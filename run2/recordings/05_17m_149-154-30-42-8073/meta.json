@@ -1,0 +1,17 @@
+{
+ "url": "http://149.154.30.42:8073/",
+ "band": "17m",
+ "freq_khz": 18100.0,
+ "station": "0-30 MHz SDR | Omaha, Nebraska",
+ "lat": 41.282445,
+ "lon": -96.179666,
+ "probe_decodes": 8,
+ "probe_sample": [
+  "222730   1  0.1  869 ~  CQ WD4OOZ EM84",
+  "222730  -1  0.5 1205 ~  CQ WT1W EM62",
+  "222730 -10  0.1 1372 ~  W5ORC W3GO FN20",
+  "222730 -11  0.1  677 ~  CQ KN1B EL98",
+  "222730   2  0.9 2857 ~  LU3RAA AK4T EM74"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/05_17m_149-154-30-42-8073"
+}

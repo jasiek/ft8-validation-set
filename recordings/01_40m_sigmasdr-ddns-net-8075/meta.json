@@ -1,0 +1,17 @@
+{
+ "url": "http://sigmasdr.ddns.net:8075/",
+ "band": "40m",
+ "freq_khz": 7074.0,
+ "station": "N1NTE-3 - MA/CT Border, USA",
+ "lat": 42.033943,
+ "lon": -72.140461,
+ "probe_decodes": 41,
+ "probe_sample": [
+  "221530  -5  0.2 1438 ~  G4MZV HA1BF -11",
+  "221530  10  0.1 3001 ~  IU7UTX KO4FQW FM18",
+  "221530   8  0.2 1347 ~  PP5GER AD9AR",
+  "221530  24  0.1  477 ~  CQ KD8WBZ EN81",
+  "221530   4  0.2 1999 ~  CQ AA4NP EL98"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/recordings/01_40m_sigmasdr-ddns-net-8075"
+}

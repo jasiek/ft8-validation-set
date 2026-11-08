@@ -1,0 +1,17 @@
+{
+ "url": "https://listen.sadarc.org/",
+ "band": "30m",
+ "freq_khz": 10136.0,
+ "station": "VK3SOL-Strathbogie Rx.3 Victoria, Australia. [LW,MW,HF]",
+ "lat": -36.852596,
+ "lon": 145.738417,
+ "probe_decodes": 11,
+ "probe_sample": [
+  "221515  -3  0.5 2065 ~  CQ W1ARY FN31",
+  "221515  -7  0.4 1219 ~  KC4SWL W4LUF 73",
+  "221515  -1  0.3  400 ~  CT3HQ KE8ZDV R-12",
+  "221515  -1  0.6  960 ~  LW2EDM KQ4IJJ FM17",
+  "221515   2  0.3 2564 ~  KC0INQ NR0K +17"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/recordings/07_30m_listen-sadarc-org"
+}

@@ -1,0 +1,17 @@
+{
+ "url": "http://22178.proxy.kiwisdr.com:8073/",
+ "band": "40m",
+ "freq_khz": 7074.0,
+ "station": "K8MLM 0-30 MHz SDR | Timberline, Mountain, WV, USA FM19hb",
+ "lat": 39.04973,
+ "lon": -79.38263,
+ "probe_decodes": 43,
+ "probe_sample": [
+  "222730  12 -0.1 1501 ~  S58N VE3JPP FN03",
+  "222730   9  0.1 1213 ~  CQ DX NA6Y EL97",
+  "222730  13  0.3  395 ~  DL2KDF W2GHD -19",
+  "222730   8  0.2 2646 ~  CQ KE8ESJ EM79",
+  "222730   7  0.1 1155 ~  KG4OLE KA8CLN 73"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/00_40m_22178-proxy-kiwisdr-com-8073"
+}

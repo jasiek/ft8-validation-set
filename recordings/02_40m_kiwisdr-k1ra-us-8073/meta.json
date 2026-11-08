@@ -1,0 +1,17 @@
+{
+ "url": "http://kiwisdr.k1ra.us:8073/",
+ "band": "40m",
+ "freq_khz": 7074.0,
+ "station": "0-30 MHz SDR, K1RA/KW4VA Virginia, USA",
+ "lat": 38.742405,
+ "lon": -77.797874,
+ "probe_decodes": 39,
+ "probe_sample": [
+  "221530  29  0.1  556 ~  SX200H <...> RR73",
+  "221530   7  0.1 1300 ~  VE3FSN KT4TV FM07",
+  "221530   1  0.2 2000 ~  CQ AA4NP EL98",
+  "221530   3  0.1 2581 ~  N3HUG KE8ESJ EM79",
+  "221530  17  0.1 1139 ~  VE3FSN AB8KP 73"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/recordings/02_40m_kiwisdr-k1ra-us-8073"
+}

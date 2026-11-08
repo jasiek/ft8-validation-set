@@ -1,0 +1,17 @@
+{
+ "url": "http://oh3aa.dy.fi:18073/",
+ "band": "160m",
+ "freq_khz": 1840.0,
+ "station": "OH3AA Hameenlinnan Radioamatoorit KiwiSDR 0-30 MHz | H\u00e4meenlinna, Finland",
+ "lat": 60.950613,
+ "lon": 24.483177,
+ "probe_decodes": 6,
+ "probe_sample": [
+  "222730   4 -0.1 1495 ~  CQ EO210WLP",
+  "222730   1 -2.2 1701 ~  OH7ML SO3O JO92",
+  "222730   5  0.2 1585 ~  CQ DJ5IW JN67",
+  "222730   4  0.2 2269 ~  EA1ARJ HB9CXZ JN46",
+  "222730 -10  0.2 1900 ~  SQ5N UX7QV R-18"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run2/recordings/06_160m_oh3aa-dy-fi-18073"
+}
