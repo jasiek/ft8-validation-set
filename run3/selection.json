@@ -1,0 +1,200 @@
+{
+ "probed_utc": "2026-11-09T05:31:36.828570+00:00",
+ "source": "receiverbook-fresh",
+ "excluded_training_sites": true,
+ "excluded_earlier_runs": true,
+ "chosen": [
+  {
+   "url": "http://22378.proxy.kiwisdr.com:8073/",
+   "band": "15m",
+   "freq_khz": 21074.0,
+   "station": "VK6BL Vk6HL HF | Mt Barker, Western Australia",
+   "lat": -34.620963,
+   "lon": 117.579111,
+   "probe_decodes": 24,
+   "probe_sample": [
+    "053100  -7  0.3 1506 ~  CQ BA4IAW OM87",
+    "053100   3  0.3  503 ~  JA6CGI FW3GT -04",
+    "053100   6  1.3 2597 ~  CQ BA7SAY OL53",
+    "053100  -2  0.3 2310 ~  CQ VU2XZ MK97",
+    "053100  11  0.4 2693 ~  VK3BD JR1SAU PM95"
+   ]
+  },
+  {
+   "url": "http://ok1kki.vebik.cz:8073/",
+   "band": "40m",
+   "freq_khz": 7074.0,
+   "station": "0-30 MHz SDR, OK1CPR-OK6IK, Czech Republic",
+   "lat": 49.142938,
+   "lon": 15.006931,
+   "probe_decodes": 22,
+   "probe_sample": [
+    "053100   5  0.2  574 ~  HK3O EA3EDU JN01",
+    "053100  -2  0.1  821 ~  IK4LZH F4MJX RRR",
+    "053100   1  0.3 1114 ~  IU1WZN UW8SM KN28",
+    "053100 -14 -0.0 1998 ~  F4ELU RW3DDZ KO86",
+    "053100  -6  0.2 2430 ~  IU1WZN SV1EKI KM18"
+   ]
+  },
+  {
+   "url": "http://w7pua-2.ddns.net:8073/",
+   "band": "80m",
+   "freq_khz": 3573.0,
+   "station": "0.3-30 MHz 8-Channel SDR, W7PUA  | Adair Village, Oregon, USA",
+   "lat": 44.6767,
+   "lon": -123.227333,
+   "probe_decodes": 15,
+   "probe_sample": [
+    "053100  -7 -0.1 1501 ~  AC9XW K5RJM EM12",
+    "053100   0  0.2  659 ~  CQ KD0XD EN12",
+    "053100  16  0.1 2493 ~  W6ACT K0KP EN36",
+    "053100  16 -0.0 1574 ~  K8OD KN6MLT CM99",
+    "053100   0  0.7  220 ~  N6GL KK7OEA DN40"
+   ]
+  },
+  {
+   "url": "http://kiwisdr.hirokinet.com:8074/",
+   "band": "20m",
+   "freq_khz": 14074.0,
+   "station": "0-30 MHZ SDR#1, JH1PGF, TOKYO, JAPAN. Up to Sixteen users can listen simultaneously.",
+   "lat": 35.772521,
+   "lon": 139.803685,
+   "probe_decodes": 13,
+   "probe_sample": [
+    "053100   9  0.2 2415 ~  BG5WRY BH5HIE PM00",
+    "053100  -7  0.1 2201 ~  JA6XBH BH8NNU OL36",
+    "053100   4 -0.2  390 ~  CQ BI1TX OM89",
+    "053100   1  0.2  530 ~  SV4LGX JR2PEB R-18",
+    "053100 -15  0.1 1798 ~  LU9DPI JS2GSW 73"
+   ]
+  },
+  {
+   "url": "http://dl8las.proxy.kiwisdr.com:8073/",
+   "band": "60m",
+   "freq_khz": 5357.0,
+   "station": "DL8LAS Trent, 0-30 MHz SDR",
+   "lat": 54.205979,
+   "lon": 10.364482,
+   "probe_decodes": 7,
+   "probe_sample": [
+    "053100   8  0.3 1508 ~  SP1ZMO US2YW KN28",
+    "053100  14  0.3  350 ~  CQ OM7ASP JN98",
+    "053100  -4  0.4 1610 ~  K8AGB I0VHL JN62",
+    "053100  -5  0.4 1556 ~  KI6Q K1CF RR73",
+    "053100 -12  0.4 1333 ~  F5BZB DL8LE JN68"
+   ]
+  },
+  {
+   "url": "http://ktm.twrmon.net:8073/",
+   "band": "10m",
+   "freq_khz": 28074.0,
+   "station": "GRMS KTM | Kathmandu, Nepal",
+   "lat": 27.73,
+   "lon": 85.30111,
+   "probe_decodes": 5,
+   "probe_sample": [
+    "053100  -8  0.5 1710 ~  CQ BG7IDX OL62",
+    "053100  -4  0.2  735 ~  VJ6X BG3IYX OM49",
+    "053100 -21  0.3 2145 ~  CQ 5W1SA AH46",
+    "053100 -14  1.0  864 ~  JR3LJN RA9YJU -17",
+    "053100 -10  0.3  701 ~  BD6JJP JH1HFE PM96"
+   ]
+  },
+  {
+   "url": "http://df6dbf.ddns.net:8073/",
+   "band": "40m",
+   "freq_khz": 7074.0,
+   "station": "DF6DBF 0-30 MHz SDR | Hagen, Germany",
+   "lat": 51.34598,
+   "lon": 7.508826,
+   "probe_decodes": 19,
+   "probe_sample": [
+    "053100  -7 -0.1 1502 ~  UA1OIZ IU8RFW R-04",
+    "053100  -8  0.7 1565 ~  CQ E75W JN93",
+    "053100  -8  0.1 1340 ~  F5ICC SV5BYP R-04",
+    "053100 -18  0.5 1722 ~  CQ LA8ENA JO48",
+    "053100  16  0.2  574 ~  HK3O EA3EDU JN01"
+   ]
+  },
+  {
+   "url": "http://vk2atz.proxy.kiwisdr.com:8073/",
+   "band": "15m",
+   "freq_khz": 21074.0,
+   "station": "KiwiSDR - VK2ATZ | Teralba, New South Wales. AUSTRALIA.",
+   "lat": -32.96245,
+   "lon": 151.607236,
+   "probe_decodes": 14,
+   "probe_sample": [
+    "053100  -7  0.3 1093 ~  RA0ADQ BI3UPU OM64",
+    "053100  -4  0.3  303 ~  JA0WJA KH8A +17",
+    "053100   5  0.3  477 ~  JA6CGI FW3GT -04",
+    "053100 -14  0.5 1867 ~  JA3GZF JA4TJC PM64",
+    "053100   4  0.3 2423 ~  UT7HA HL1IE 73"
+   ]
+  },
+  {
+   "url": "http://rick-kiwi.ddns.net:8073/",
+   "band": "20m",
+   "freq_khz": 14074.0,
+   "station": "0-30 MHz SDR, DX6RAN, Negros Occidental, Philippines",
+   "lat": 10.723528,
+   "lon": 122.97332,
+   "probe_decodes": 11,
+   "probe_sample": [
+    "053100  -1  0.3 2416 ~  BG5WRY BH5HIE PM00",
+    "053100   2  0.3  446 ~  VK2KET JR7RHO PM98",
+    "053100  -6  0.3 2201 ~  JA6XBH BH8NNU OL36",
+    "053100  -7  0.3  775 ~  CQ BI6PWL OM64",
+    "053100  -5 -0.1  392 ~  CQ BI1TX OM89"
+   ]
+  },
+  {
+   "url": "http://sk5sm-at-sk6ww.proxy.kiwisdr.com:8073/",
+   "band": "60m",
+   "freq_khz": 5357.0,
+   "station": "Lake Wettern DX Group - SK6WW Karlsborg | Sweden",
+   "lat": 58.54,
+   "lon": 14.44,
+   "probe_decodes": 7,
+   "probe_sample": [
+    "053100 -11  0.3 1502 ~  SP1ZMO US2YW KN28",
+    "053100 -20  0.4 1788 ~  CQ DJ4FAN JN49",
+    "053100 -17  0.4 1605 ~  K8AGB I0VHL JN62",
+    "053100 -11  0.4 1326 ~  F5BZB DL8LE JN68",
+    "053100 -13  0.3  345 ~  CQ OM7ASP JN98"
+   ]
+  },
+  {
+   "url": "http://cb1jwd.dynu.net:8074/",
+   "band": "40m",
+   "freq_khz": 7074.0,
+   "station": "NL12894 KiwiSDR Delfzijl Netherlands with PA0FRI shielded activeloop",
+   "lat": 53.316431,
+   "lon": 6.896145,
+   "probe_decodes": 17,
+   "probe_sample": [
+    "053100 -15 -0.1 1501 ~  UA1OIZ IU8RFW R-04",
+    "053100  -7  0.6 1722 ~  CQ LA8ENA JO48",
+    "053100  24  0.3 2928 ~  3A2LF LB5WB JP20",
+    "053100 -13  0.2 1434 ~  CQ YO4GIY KN43",
+    "053100  -5  0.2  573 ~  HK3O EA3EDU JN01"
+   ]
+  },
+  {
+   "url": "http://midskiwi.ddns.net:8073/",
+   "band": "15m",
+   "freq_khz": 21074.0,
+   "station": "0-30 MHz SDR | Doha, Qatar",
+   "lat": 25.2854,
+   "lon": 51.531,
+   "probe_decodes": 11,
+   "probe_sample": [
+    "053100  -2  0.2 2316 ~  UT3UY 9X5KM -16",
+    "053100  -4  0.3 2182 ~  JA3GZF RZ4FWA LO23",
+    "053100  -6  0.3 2553 ~  BG8NAF 3B9FR 73",
+    "053100 -16  0.5 1967 ~  CQ 9N/S57MK",
+    "053100 -13  0.4 1862 ~  JJ5TMF RV9CM -15"
+   ]
+  }
+ ]
+}

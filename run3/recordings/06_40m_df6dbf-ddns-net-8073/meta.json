@@ -1,0 +1,17 @@
+{
+ "url": "http://df6dbf.ddns.net:8073/",
+ "band": "40m",
+ "freq_khz": 7074.0,
+ "station": "DF6DBF 0-30 MHz SDR | Hagen, Germany",
+ "lat": 51.34598,
+ "lon": 7.508826,
+ "probe_decodes": 19,
+ "probe_sample": [
+  "053100  -7 -0.1 1502 ~  UA1OIZ IU8RFW R-04",
+  "053100  -8  0.7 1565 ~  CQ E75W JN93",
+  "053100  -8  0.1 1340 ~  F5ICC SV5BYP R-04",
+  "053100 -18  0.5 1722 ~  CQ LA8ENA JO48",
+  "053100  16  0.2  574 ~  HK3O EA3EDU JN01"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/06_40m_df6dbf-ddns-net-8073"
+}

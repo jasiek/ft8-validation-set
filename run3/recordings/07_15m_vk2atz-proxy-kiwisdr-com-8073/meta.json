@@ -1,0 +1,17 @@
+{
+ "url": "http://vk2atz.proxy.kiwisdr.com:8073/",
+ "band": "15m",
+ "freq_khz": 21074.0,
+ "station": "KiwiSDR - VK2ATZ | Teralba, New South Wales. AUSTRALIA.",
+ "lat": -32.96245,
+ "lon": 151.607236,
+ "probe_decodes": 14,
+ "probe_sample": [
+  "053100  -7  0.3 1093 ~  RA0ADQ BI3UPU OM64",
+  "053100  -4  0.3  303 ~  JA0WJA KH8A +17",
+  "053100   5  0.3  477 ~  JA6CGI FW3GT -04",
+  "053100 -14  0.5 1867 ~  JA3GZF JA4TJC PM64",
+  "053100   4  0.3 2423 ~  UT7HA HL1IE 73"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/07_15m_vk2atz-proxy-kiwisdr-com-8073"
+}

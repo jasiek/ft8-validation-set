@@ -1,0 +1,17 @@
+{
+ "url": "http://ok1kki.vebik.cz:8073/",
+ "band": "40m",
+ "freq_khz": 7074.0,
+ "station": "0-30 MHz SDR, OK1CPR-OK6IK, Czech Republic",
+ "lat": 49.142938,
+ "lon": 15.006931,
+ "probe_decodes": 22,
+ "probe_sample": [
+  "053100   5  0.2  574 ~  HK3O EA3EDU JN01",
+  "053100  -2  0.1  821 ~  IK4LZH F4MJX RRR",
+  "053100   1  0.3 1114 ~  IU1WZN UW8SM KN28",
+  "053100 -14 -0.0 1998 ~  F4ELU RW3DDZ KO86",
+  "053100  -6  0.2 2430 ~  IU1WZN SV1EKI KM18"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/01_40m_ok1kki-vebik-cz-8073"
+}

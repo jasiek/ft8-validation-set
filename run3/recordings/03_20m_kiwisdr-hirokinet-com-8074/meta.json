@@ -1,0 +1,17 @@
+{
+ "url": "http://kiwisdr.hirokinet.com:8074/",
+ "band": "20m",
+ "freq_khz": 14074.0,
+ "station": "0-30 MHZ SDR#1, JH1PGF, TOKYO, JAPAN. Up to Sixteen users can listen simultaneously.",
+ "lat": 35.772521,
+ "lon": 139.803685,
+ "probe_decodes": 13,
+ "probe_sample": [
+  "053100   9  0.2 2415 ~  BG5WRY BH5HIE PM00",
+  "053100  -7  0.1 2201 ~  JA6XBH BH8NNU OL36",
+  "053100   4 -0.2  390 ~  CQ BI1TX OM89",
+  "053100   1  0.2  530 ~  SV4LGX JR2PEB R-18",
+  "053100 -15  0.1 1798 ~  LU9DPI JS2GSW 73"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/03_20m_kiwisdr-hirokinet-com-8074"
+}

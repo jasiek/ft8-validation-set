@@ -1,0 +1,17 @@
+{
+ "url": "http://sk5sm-at-sk6ww.proxy.kiwisdr.com:8073/",
+ "band": "60m",
+ "freq_khz": 5357.0,
+ "station": "Lake Wettern DX Group - SK6WW Karlsborg | Sweden",
+ "lat": 58.54,
+ "lon": 14.44,
+ "probe_decodes": 7,
+ "probe_sample": [
+  "053100 -11  0.3 1502 ~  SP1ZMO US2YW KN28",
+  "053100 -20  0.4 1788 ~  CQ DJ4FAN JN49",
+  "053100 -17  0.4 1605 ~  K8AGB I0VHL JN62",
+  "053100 -11  0.4 1326 ~  F5BZB DL8LE JN68",
+  "053100 -13  0.3  345 ~  CQ OM7ASP JN98"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/09_60m_sk5sm-at-sk6ww-proxy-kiwisdr-com-8073"
+}

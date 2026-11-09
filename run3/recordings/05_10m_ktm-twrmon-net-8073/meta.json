@@ -1,0 +1,17 @@
+{
+ "url": "http://ktm.twrmon.net:8073/",
+ "band": "10m",
+ "freq_khz": 28074.0,
+ "station": "GRMS KTM | Kathmandu, Nepal",
+ "lat": 27.73,
+ "lon": 85.30111,
+ "probe_decodes": 5,
+ "probe_sample": [
+  "053100  -8  0.5 1710 ~  CQ BG7IDX OL62",
+  "053100  -4  0.2  735 ~  VJ6X BG3IYX OM49",
+  "053100 -21  0.3 2145 ~  CQ 5W1SA AH46",
+  "053100 -14  1.0  864 ~  JR3LJN RA9YJU -17",
+  "053100 -10  0.3  701 ~  BD6JJP JH1HFE PM96"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/05_10m_ktm-twrmon-net-8073"
+}

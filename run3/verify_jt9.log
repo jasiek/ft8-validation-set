@@ -1,0 +1,38 @@
+spots indexed: 555958 for 3445 (band, call) pairs; reporters per band: 10m=592, 15m=850, 20m=1297, 40m=1793, 60m=509, 80m=904
+
+station                                    band   dec    slot  active  repeat  unconf     n/a  conf%
+00_15m_22378-proxy-kiwisdr-com-8073         15m  4670    3651     947       0       3      69  99.9%
+01_40m_ok1kki-vebik-cz-8073                 40m  2705    2072     578       0       2      53  99.9%
+02_80m_w7pua-2-ddns-net-8073                80m  1850    1347     474       0       1      28  99.9%
+03_20m_kiwisdr-hirokinet-com-8074           20m   318     221      92       0       2       3  99.4%
+04_60m_dl8las-proxy-kiwisdr-com-8073        60m   691     504     184       0       2       1  99.7%
+05_10m_ktm-twrmon-net-8073                  10m   656     407     224       0       1      24  99.8%
+06_40m_df6dbf-ddns-net-8073                 40m  2655    2015     551       0       0      89  100.0%
+07_15m_vk2atz-proxy-kiwisdr-com-8073        15m  3356    2699     629       0       2      26  99.9%
+08_20m_rick-kiwi-ddns-net-8073              20m  1040     778     256       0       1       5  99.9%
+09_60m_sk5sm-at-sk6ww-proxy-kiwisdr-com-8073  60m   559     418     140       0       0       1  100.0%
+10_40m_cb1jwd-dynu-net-8074                 40m  2010    1571     407       0       2      30  99.9%
+11_15m_midskiwi-ddns-net-8073               15m  3014    2205     752       0       1      56  100.0%
+TOTAL                                           23524   17888    5234       0      17     385  99.9%
+
+of checkable decodes: slot-confirmed 77.3%, active-only 22.6%, repeat-only 0.0%, unconfirmed 0.1%
+per-receiver freq offset vs spots (Hz): 00=+0, 01=+0, 02=+0, 03=+0, 04=-1, 05=+3, 06=+0, 07=+22, 08=+0, 09=+0, 10=+0, 11=-319
+
+unconfirmed:
+  00_15m_22378-proxy-kiwisdr-com 261109_053245  1333.0  CQ CN5XWZ JR20
+  00_15m_22378-proxy-kiwisdr-com 261109_053445  1076.0  CQ U90LAS KQ68
+  00_15m_22378-proxy-kiwisdr-com 261109_054215  2415.0  CQ HZ1SAM KM56
+  01_40m_ok1kki-vebik-cz-8073    261109_053830  2593.0  M0HDC/P I16CGN/P R PH31
+  01_40m_ok1kki-vebik-cz-8073    261109_055715  2526.0  CQ 5T/MLK1Y/DU
+  02_80m_w7pua-2-ddns-net-8073   261109_055815  1157.0  CQ VC9LAG LH45
+  03_20m_kiwisdr-hirokinet-com-8 261109_054445   585.0  CQ PF5SIE DQ71
+  03_20m_kiwisdr-hirokinet-com-8 261109_054545  2940.0  FN9TF MN5WRF R DG69
+  04_60m_dl8las-proxy-kiwisdr-co 261109_053545   582.0  XG5BDP CJ9KVT R 21E GH
+  04_60m_dl8las-proxy-kiwisdr-co 261109_055600  2786.0  3V8KIM YP2BRA R 569 5767
+  05_10m_ktm-twrmon-net-8073     261109_054145  2625.0  CQ UN7AEX QA05
+  07_15m_vk2atz-proxy-kiwisdr-co 261109_053700  2587.0  FF5CZ BE7HZF 19A IL
+  07_15m_vk2atz-proxy-kiwisdr-co 261109_054345  2541.0  CQ Y40YYC RF10
+  08_20m_rick-kiwi-ddns-net-8073 261109_055600   864.0  <...> AQ6UYV 599 2560
+  10_40m_cb1jwd-dynu-net-8074    261109_054630   817.0  CQ NN0QVV GM74
+  10_40m_cb1jwd-dynu-net-8074    261109_055745  2951.0  2I3CIY PG6VQP R 19D NLI
+  11_15m_midskiwi-ddns-net-8073  261109_055345  1261.0  CQ 000 PV7DYB JM50

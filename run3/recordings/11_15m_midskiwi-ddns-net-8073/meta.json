@@ -1,0 +1,17 @@
+{
+ "url": "http://midskiwi.ddns.net:8073/",
+ "band": "15m",
+ "freq_khz": 21074.0,
+ "station": "0-30 MHz SDR | Doha, Qatar",
+ "lat": 25.2854,
+ "lon": 51.531,
+ "probe_decodes": 11,
+ "probe_sample": [
+  "053100  -2  0.2 2316 ~  UT3UY 9X5KM -16",
+  "053100  -4  0.3 2182 ~  JA3GZF RZ4FWA LO23",
+  "053100  -6  0.3 2553 ~  BG8NAF 3B9FR 73",
+  "053100 -16  0.5 1967 ~  CQ 9N/S57MK",
+  "053100 -13  0.4 1862 ~  JJ5TMF RV9CM -15"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/11_15m_midskiwi-ddns-net-8073"
+}

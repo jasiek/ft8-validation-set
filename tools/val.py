@@ -3,7 +3,8 @@
   python3 tools/val.py probe     -> re-probe known-good Kiwis (from ../ft8-training-data) on bands
                                     suited to their local time; writes selection.json
   RECEIVERS_JSON=rx.json OUTDIR=run2 python3 tools/val.py probe-fresh
-                                 -> random receiverbook Kiwis, excluding all training-set sites
+                                 -> random receiverbook Kiwis, excluding training sites and earlier runs
+                                    (N_RX receivers, default 10; PER_BAND probes per band, default 4)
   python3 tools/val.py record    -> 30 min of slot-aligned WAVs from every selected receiver, while
                                     capturing PSK Reporter MQTT spots for the same bands (+ upload tail)
   python3 tools/val.py decode    -> jt9 baseline decodes.txt + 30-min WAV per receiver
@@ -142,11 +143,16 @@ def probe_once(rx, band):
         return 0, [repr(e)]
 
 
-def cmd_probe_fresh(n_wanted=10, per_band=4, seed=None):
-    """Random KiwiSDRs from receiverbook, excluding every site used in the training set."""
+def cmd_probe_fresh(seed=None):
+    """Random KiwiSDRs from receiverbook, excluding every site used in the training set or an earlier run."""
+    n_wanted, per_band = int(os.environ.get("N_RX", 10)), int(os.environ.get("PER_BAND", 4))
     rng = random.Random(seed)
-    train = json.load(open(SOURCE_SEL))["chosen"]
-    banned = {(round(c["lat"], 1), round(c["lon"], 1)) for c in train} | {c["url"] for c in train}
+    used = json.load(open(SOURCE_SEL))["chosen"]
+    for d in sorted(os.listdir(ROOT)):  # earlier validation runs (run2/, run3/, ...), not the one being made
+        sel = os.path.join(ROOT, d, "selection.json")
+        if re.fullmatch(r"run\d+", d) and os.path.abspath(os.path.join(ROOT, d)) != BASE and os.path.exists(sel):
+            used += json.load(open(sel))["chosen"]
+    banned = {(round(c["lat"], 1), round(c["lon"], 1)) for c in used} | {c["url"] for c in used}
     rxs = [r for r in json.load(open(RECEIVERS_JSON)) if r["type"] == "KiwiSDR"
            and r["url"] not in banned and (round(r["lat"], 1), round(r["lon"], 1)) not in banned]
     rng.shuffle(rxs)
@@ -176,7 +182,7 @@ def cmd_probe_fresh(n_wanted=10, per_band=4, seed=None):
         log(f"  {n:3d} {band:4s} {r['url']}  ({r['station'][:40]}, local {local_hour(r['lon']):.1f}h)"
             + (f"  {smp[0]}" if n <= 0 and smp else ""))
     chosen, cnt = [], {}
-    for cap in (1, 2):  # first one receiver per band, then a second where it pays
+    for cap in (1, 2, 3):  # first one receiver per band, then a second (third) where it pays
         for (r, band), (n, smp) in ranked:
             if len(chosen) < n_wanted and n >= 5 and cnt.get(band, 0) < cap and r["url"] not in {c["url"] for c in chosen}:
                 cnt[band] = cnt.get(band, 0) + 1
@@ -184,7 +190,7 @@ def cmd_probe_fresh(n_wanted=10, per_band=4, seed=None):
                                    lat=r["lat"], lon=r["lon"], probe_decodes=n, probe_sample=smp))
     os.makedirs(BASE, exist_ok=True)
     json.dump(dict(probed_utc=datetime.now(timezone.utc).isoformat(), source="receiverbook-fresh",
-                   excluded_training_sites=True, chosen=chosen),
+                   excluded_training_sites=True, excluded_earlier_runs=True, chosen=chosen),
               open(os.path.join(BASE, "selection.json"), "w"), indent=1)
     for c in chosen:
         log(f"chosen {c['band']:4s} {c['probe_decodes']:3d}  {c['url']}  {c['station'][:45]}")

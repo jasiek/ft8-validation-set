@@ -1,0 +1,17 @@
+{
+ "url": "http://w7pua-2.ddns.net:8073/",
+ "band": "80m",
+ "freq_khz": 3573.0,
+ "station": "0.3-30 MHz 8-Channel SDR, W7PUA  | Adair Village, Oregon, USA",
+ "lat": 44.6767,
+ "lon": -123.227333,
+ "probe_decodes": 15,
+ "probe_sample": [
+  "053100  -7 -0.1 1501 ~  AC9XW K5RJM EM12",
+  "053100   0  0.2  659 ~  CQ KD0XD EN12",
+  "053100  16  0.1 2493 ~  W6ACT K0KP EN36",
+  "053100  16 -0.0 1574 ~  K8OD KN6MLT CM99",
+  "053100   0  0.7  220 ~  N6GL KK7OEA DN40"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/02_80m_w7pua-2-ddns-net-8073"
+}

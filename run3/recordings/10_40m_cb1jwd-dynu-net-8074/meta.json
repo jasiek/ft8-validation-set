@@ -1,0 +1,17 @@
+{
+ "url": "http://cb1jwd.dynu.net:8074/",
+ "band": "40m",
+ "freq_khz": 7074.0,
+ "station": "NL12894 KiwiSDR Delfzijl Netherlands with PA0FRI shielded activeloop",
+ "lat": 53.316431,
+ "lon": 6.896145,
+ "probe_decodes": 17,
+ "probe_sample": [
+  "053100 -15 -0.1 1501 ~  UA1OIZ IU8RFW R-04",
+  "053100  -7  0.6 1722 ~  CQ LA8ENA JO48",
+  "053100  24  0.3 2928 ~  3A2LF LB5WB JP20",
+  "053100 -13  0.2 1434 ~  CQ YO4GIY KN43",
+  "053100  -5  0.2  573 ~  HK3O EA3EDU JN01"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/10_40m_cb1jwd-dynu-net-8074"
+}

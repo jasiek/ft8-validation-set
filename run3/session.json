@@ -1,0 +1,21 @@
+{
+ "start_utc": 1794202320,
+ "until_utc": 1794204121,
+ "pskr_tail_s": 720,
+ "bands": [
+  "10m",
+  "15m",
+  "20m",
+  "40m",
+  "60m",
+  "80m"
+ ],
+ "topics": [
+  "pskr/filter/v2/10m/FT8/#",
+  "pskr/filter/v2/15m/FT8/#",
+  "pskr/filter/v2/20m/FT8/#",
+  "pskr/filter/v2/40m/FT8/#",
+  "pskr/filter/v2/60m/FT8/#",
+  "pskr/filter/v2/80m/FT8/#"
+ ]
+}

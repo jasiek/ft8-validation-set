@@ -1,0 +1,17 @@
+{
+ "url": "http://22378.proxy.kiwisdr.com:8073/",
+ "band": "15m",
+ "freq_khz": 21074.0,
+ "station": "VK6BL Vk6HL HF | Mt Barker, Western Australia",
+ "lat": -34.620963,
+ "lon": 117.579111,
+ "probe_decodes": 24,
+ "probe_sample": [
+  "053100  -7  0.3 1506 ~  CQ BA4IAW OM87",
+  "053100   3  0.3  503 ~  JA6CGI FW3GT -04",
+  "053100   6  1.3 2597 ~  CQ BA7SAY OL53",
+  "053100  -2  0.3 2310 ~  CQ VU2XZ MK97",
+  "053100  11  0.4 2693 ~  VK3BD JR1SAU PM95"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/00_15m_22378-proxy-kiwisdr-com-8073"
+}

@@ -1,0 +1,4 @@
+decoding ['09_60m_sk5sm-at-sk6ww-proxy-kiwisdr-com-8073', '10_40m_cb1jwd-dynu-net-8074', '11_15m_midskiwi-ddns-net-8073']
+09_60m_sk5sm-at-sk6ww-proxy-kiwisdr-com-8073  slots=119  decodes=559
+10_40m_cb1jwd-dynu-net-8074                   slots=120  decodes=2010
+11_15m_midskiwi-ddns-net-8073                 slots=120  decodes=3014

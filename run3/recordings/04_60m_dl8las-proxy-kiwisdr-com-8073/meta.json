@@ -1,0 +1,17 @@
+{
+ "url": "http://dl8las.proxy.kiwisdr.com:8073/",
+ "band": "60m",
+ "freq_khz": 5357.0,
+ "station": "DL8LAS Trent, 0-30 MHz SDR",
+ "lat": 54.205979,
+ "lon": 10.364482,
+ "probe_decodes": 7,
+ "probe_sample": [
+  "053100   8  0.3 1508 ~  SP1ZMO US2YW KN28",
+  "053100  14  0.3  350 ~  CQ OM7ASP JN98",
+  "053100  -4  0.4 1610 ~  K8AGB I0VHL JN62",
+  "053100  -5  0.4 1556 ~  KI6Q K1CF RR73",
+  "053100 -12  0.4 1333 ~  F5BZB DL8LE JN68"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/04_60m_dl8las-proxy-kiwisdr-com-8073"
+}

@@ -1,0 +1,17 @@
+{
+ "url": "http://rick-kiwi.ddns.net:8073/",
+ "band": "20m",
+ "freq_khz": 14074.0,
+ "station": "0-30 MHz SDR, DX6RAN, Negros Occidental, Philippines",
+ "lat": 10.723528,
+ "lon": 122.97332,
+ "probe_decodes": 11,
+ "probe_sample": [
+  "053100  -1  0.3 2416 ~  BG5WRY BH5HIE PM00",
+  "053100   2  0.3  446 ~  VK2KET JR7RHO PM98",
+  "053100  -6  0.3 2201 ~  JA6XBH BH8NNU OL36",
+  "053100  -7  0.3  775 ~  CQ BI6PWL OM64",
+  "053100  -5 -0.1  392 ~  CQ BI1TX OM89"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run3/recordings/08_20m_rick-kiwi-ddns-net-8073"
+}

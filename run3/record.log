@@ -1,0 +1,61 @@
+00:31:52 recording 12 receivers from 05:32:00Z for 30 min; pskr topics ['10m', '15m', '20m', '40m', '60m', '80m']
+00:31:52 [pskr] connected, subscribed ['pskr/filter/v2/10m/FT8/#', 'pskr/filter/v2/15m/FT8/#', 'pskr/filter/v2/20m/FT8/#', 'pskr/filter/v2/40m/FT8/#', 'pskr/filter/v2/60m/FT8/#', 'pskr/filter/v2/80m/FT8/#']
+00:32:55 [pskr] 12200 spots so far
+00:33:55 [pskr] 25778 spots so far
+00:35:00 [pskr] 37852 spots so far
+00:36:01 [pskr] 50652 spots so far
+00:37:01 [pskr] 64651 spots so far
+00:38:01 [pskr] 79051 spots so far
+00:39:01 [pskr] 92227 spots so far
+00:40:01 [pskr] 105819 spots so far
+00:41:01 [pskr] 118956 spots so far
+00:42:02 [pskr] 133622 spots so far
+00:43:02 [pskr] 148183 spots so far
+00:44:02 [pskr] 160794 spots so far
+00:45:02 [pskr] 173308 spots so far
+00:46:03 [pskr] 186445 spots so far
+00:47:03 [pskr] 199300 spots so far
+00:48:03 [pskr] 211689 spots so far
+00:49:08 [pskr] 227109 spots so far
+00:50:08 [pskr] 240352 spots so far
+00:51:08 [pskr] 252448 spots so far
+00:52:09 [pskr] 265548 spots so far
+00:53:09 [pskr] 278864 spots so far
+00:54:09 [pskr] 291882 spots so far
+00:55:09 [pskr] 306373 spots so far
+00:56:09 [pskr] 320552 spots so far
+00:57:09 [pskr] 333227 spots so far
+00:58:09 [pskr] 346288 spots so far
+00:59:09 [pskr] 358199 spots so far
+01:00:09 [pskr] 371958 spots so far
+01:01:09 [pskr] 388038 spots so far
+01:01:52 [http://22378.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+01:01:52 [http://vk2atz.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+01:01:52 [http://sk5sm-at-sk6ww.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+01:01:52 [http://dl8las.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+01:02:01 [11 15m] done: 120 slots
+01:02:01 [04 60m] done: 119 slots
+01:02:01 [08 20m] done: 120 slots
+01:02:01 [10 40m] done: 120 slots
+01:02:01 [00 15m] done: 119 slots
+01:02:01 [06 40m] done: 120 slots
+01:02:01 [07 15m] done: 119 slots
+01:02:01 [05 10m] done: 120 slots
+01:02:01 [03 20m] done: 119 slots
+01:02:01 [02 80m] done: 120 slots
+01:02:01 [01 40m] done: 120 slots
+01:02:01 [09 60m] done: 119 slots
+01:02:01 audio done; waiting 720s more for late PSK Reporter uploads
+01:02:10 [pskr] 403036 spots so far
+01:03:15 [pskr] 416829 spots so far
+01:04:15 [pskr] 431725 spots so far
+01:05:16 [pskr] 444564 spots so far
+01:06:16 [pskr] 458336 spots so far
+01:07:16 [pskr] 472173 spots so far
+01:08:21 [pskr] 485860 spots so far
+01:09:21 [pskr] 498792 spots so far
+01:10:21 [pskr] 512464 spots so far
+01:11:26 [pskr] 525364 spots so far
+01:12:26 [pskr] 536960 spots so far
+01:13:26 [pskr] 549750 spots so far
+01:14:01 [pskr] done: 556509 spots -> /Users/jps/tmp/ft8-validation-set/run3/pskr_spots.jsonl
