@@ -1,0 +1,17 @@
+{
+ "url": "http://95.88.77.200:8073/",
+ "band": "15m",
+ "freq_khz": 21074.0,
+ "station": "0-30 MHz, DL2BQA, Neustadt, Rheinland-Pfalz, Germany",
+ "lat": 49.35,
+ "lon": 8.16,
+ "probe_decodes": 6,
+ "probe_sample": [
+  "145845   5  0.1 2407 ~  HC1M RW3XZ KO85",
+  "145845  -3  0.2  818 ~  NP3RK UA3ZUX KO90",
+  "145845 -21  0.7 1947 ~  CO8TW RX3AJM KO85",
+  "145845 -15  0.2 2302 ~  DL7PH R1AV R-06",
+  "145845 -19  0.2  239 ~  CQ N3XX EM72"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/13_15m_95-88-77-200-8073"
+}

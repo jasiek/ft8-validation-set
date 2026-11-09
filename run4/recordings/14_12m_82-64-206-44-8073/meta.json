@@ -1,0 +1,17 @@
+{
+ "url": "http://82.64.206.44:8073/",
+ "band": "12m",
+ "freq_khz": 24915.0,
+ "station": "0-30 MHz SDR Auxerre France",
+ "lat": 47.933863,
+ "lon": 3.591045,
+ "probe_decodes": 5,
+ "probe_sample": [
+  "145845  -7  0.2  239 ~  LZ1JZ K2ZJ FN13",
+  "145845 -15  0.3 1375 ~  LX1LW KF5TL 73",
+  "145845  -4  0.1 2625 ~  LX1LW KF9UG EN71",
+  "145845 -24  0.3 1366 ~  LZ1JZ KQ5U EM20",
+  "145845 -23  0.3 2233 ~  CQ ZS4JAN KG30                        a1"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/14_12m_82-64-206-44-8073"
+}

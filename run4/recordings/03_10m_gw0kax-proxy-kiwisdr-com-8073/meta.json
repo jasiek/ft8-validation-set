@@ -1,0 +1,17 @@
+{
+ "url": "http://gw0kax.proxy.kiwisdr.com:8073/",
+ "band": "10m",
+ "freq_khz": 28074.0,
+ "station": "North Bridgend SDR 0-30MHz",
+ "lat": 51.535344,
+ "lon": -3.583852,
+ "probe_decodes": 32,
+ "probe_sample": [
+  "145845  15  0.4 1041 ~  <...> R6AZ KN95",
+  "145845  11  0.5 1304 ~  5B4AAB VE2FU 73",
+  "145845  10  0.1  757 ~  KE8MXD SV1TY -13",
+  "145845   8  0.2 2597 ~  CQ ZS6MGM KG43",
+  "145845  -7  0.4  459 ~  LA2GTA EA5ET IM99"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/03_10m_gw0kax-proxy-kiwisdr-com-8073"
+}

@@ -1,0 +1,17 @@
+{
+ "url": "http://80.218.128.11:8073/",
+ "band": "20m",
+ "freq_khz": 14074.0,
+ "station": "Zuerich",
+ "lat": 47.35818,
+ "lon": 8.49391,
+ "probe_decodes": 39,
+ "probe_sample": [
+  "145845  18 -0.5 1613 ~  CQ UZ5DM KN28",
+  "145845   2  0.1 2182 ~  IR0PG LZ2INP 73",
+  "145845  12  0.2 1409 ~  F4LCQ RJ3DC R-15",
+  "145845   9  0.6 1235 ~  CQ M7IUN IO93",
+  "145845   9  0.5 2588 ~  IU2VUY OH8MXJ RR73"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/00_20m_80-218-128-11-8073"
+}

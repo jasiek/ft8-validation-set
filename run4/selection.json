@@ -1,0 +1,248 @@
+{
+ "probed_utc": "2026-11-09T14:59:18.854958+00:00",
+ "source": "receiverbook-fresh",
+ "excluded_training_sites": true,
+ "excluded_earlier_runs": true,
+ "chosen": [
+  {
+   "url": "http://80.218.128.11:8073/",
+   "band": "20m",
+   "freq_khz": 14074.0,
+   "station": "Zuerich",
+   "lat": 47.35818,
+   "lon": 8.49391,
+   "probe_decodes": 39,
+   "probe_sample": [
+    "145845  18 -0.5 1613 ~  CQ UZ5DM KN28",
+    "145845   2  0.1 2182 ~  IR0PG LZ2INP 73",
+    "145845  12  0.2 1409 ~  F4LCQ RJ3DC R-15",
+    "145845   9  0.6 1235 ~  CQ M7IUN IO93",
+    "145845   9  0.5 2588 ~  IU2VUY OH8MXJ RR73"
+   ]
+  },
+  {
+   "url": "http://94.212.77.133:8073/",
+   "band": "17m",
+   "freq_khz": 18100.0,
+   "station": "PE1OPQ | Netherlands",
+   "lat": 53.08,
+   "lon": 6.8,
+   "probe_decodes": 36,
+   "probe_sample": [
+    "145845  -2  0.3 1775 ~  ON4BHQ WD8VN RR73",
+    "145845  -7  0.3 1826 ~  AC3LW R7SF KN86",
+    "145845  10  0.2 2037 ~  KC1JOL RW3SK R-20",
+    "145845  19  0.2  605 ~  <...> YO4RST R-01",
+    "145845 -13  0.5  209 ~  E75D W3GWM R-19"
+   ]
+  },
+  {
+   "url": "http://s57bit.proxy.kiwisdr.com:8073/",
+   "band": "15m",
+   "freq_khz": 21074.0,
+   "station": "0-32 MHz SDR, S5/S57BIT, Slovenia",
+   "lat": 46.17,
+   "lon": 14.3,
+   "probe_decodes": 35,
+   "probe_sample": [
+    "145845   1  0.2 1489 ~  CQ SV5BYP KM46",
+    "145845  26  0.3 2888 ~  W3WIV OH1EDK KP01",
+    "145845   2  1.0 2201 ~  M6ESH R3DHP KO95",
+    "145845   6  0.3 1935 ~  IZ7DJY ON1JP RR73",
+    "145845   2  0.3 1833 ~  LA5XUA RZ4FWA LO23"
+   ]
+  },
+  {
+   "url": "http://gw0kax.proxy.kiwisdr.com:8073/",
+   "band": "10m",
+   "freq_khz": 28074.0,
+   "station": "North Bridgend SDR 0-30MHz",
+   "lat": 51.535344,
+   "lon": -3.583852,
+   "probe_decodes": 32,
+   "probe_sample": [
+    "145845  15  0.4 1041 ~  <...> R6AZ KN95",
+    "145845  11  0.5 1304 ~  5B4AAB VE2FU 73",
+    "145845  10  0.1  757 ~  KE8MXD SV1TY -13",
+    "145845   8  0.2 2597 ~  CQ ZS6MGM KG43",
+    "145845  -7  0.4  459 ~  LA2GTA EA5ET IM99"
+   ]
+  },
+  {
+   "url": "http://ve6hfd.proxy.kiwisdr.com:8073/",
+   "band": "40m",
+   "freq_khz": 7074.0,
+   "station": "0-30 MHz SDR, VE6HFD Hanna, Alberta",
+   "lat": 51.63,
+   "lon": -111.99,
+   "probe_decodes": 27,
+   "probe_sample": [
+    "145845  10  0.1 2644 ~  VE6CV JA1IST PM52",
+    "145845  -4  0.3 1996 ~  BG0KD NT6V CM87",
+    "145845   0  0.2 2071 ~  5Z4VJ N1PPP CM89",
+    "145845  12  0.2 2851 ~  CQ JG3LGD PM74",
+    "145845  -7  0.2 1448 ~  CQ K6VHF DM43"
+   ]
+  },
+  {
+   "url": "http://f4joy.ddns.net:8073/",
+   "band": "12m",
+   "freq_khz": 24915.0,
+   "station": "ENJOY BY F4JOY | PRADIERS DEP 15 JN15LG, FRANCE",
+   "lat": 45.269722,
+   "lon": 2.924131,
+   "probe_decodes": 27,
+   "probe_sample": [
+    "145845  -5  0.2 2085 ~  VA1DUL SM3HZA R-19",
+    "145845  -8  0.3 2314 ~  CQ ZS4JAN KG30",
+    "145845  12  0.3 1455 ~  LX1LW KF5TL 73",
+    "145845  20  0.1 2705 ~  LX1LW KF9UG EN71",
+    "145845  -3  0.3 1052 ~  CQ HB9EFK JN46"
+   ]
+  },
+  {
+   "url": "http://22052.proxy.kiwisdr.com:8073/",
+   "band": "80m",
+   "freq_khz": 3573.0,
+   "station": "0-30 MHz SDR AT JA4YUF | OKAYAMA,JAPAN",
+   "lat": 34.577765,
+   "lon": 133.884727,
+   "probe_decodes": 6,
+   "probe_sample": [
+    "145845  -6  0.5 1501 ~  CQ BG4GNW PM00",
+    "145845   1  0.5 1653 ~  CQ BH3FZG OM89",
+    "145845  17  0.2 2832 ~  N2RSI JH4SLF RR73",
+    "145845  -8  0.2 1108 ~  CQ BA4OO OM96",
+    "145845   2  0.2  811 ~  CQ UA0YDB NO71"
+   ]
+  },
+  {
+   "url": "http://kiwieriz.7355.ch:8073/",
+   "band": "20m",
+   "freq_khz": 14074.0,
+   "station": "Eriz - Berner Oberland - Schweiz  \ud83c\udde8\ud83c\udded\ud83c\udde8\ud83c\udded\ud83c\udde8\ud83c\udded",
+   "lat": 46.79201,
+   "lon": 7.741238,
+   "probe_decodes": 31,
+   "probe_sample": [
+    "145845   8  0.4 2625 ~  CQ E70A JN94",
+    "145845   0  0.3  330 ~  CQ SA4AGM JP70",
+    "145845   3  0.7 1327 ~  CQ M7IUN IO93",
+    "145845 -13  0.5 1903 ~  CQ NF3R FN20",
+    "145845   0  0.4  421 ~  CQ G4DZE IO92"
+   ]
+  },
+  {
+   "url": "http://n9azz.proxy.kiwisdr.com:8073/",
+   "band": "12m",
+   "freq_khz": 24915.0,
+   "station": "N9AZZ 0-30 MHz SDR | Carterville, IL. USA",
+   "lat": 37.767983,
+   "lon": -89.118569,
+   "probe_decodes": 24,
+   "probe_sample": [
+    "145845  15  0.2 1363 ~  LX1LW N7PWZ DM33",
+    "145845  -6  0.2 1906 ~  HA7LJ XE2FGC RRR",
+    "145845  16  0.4  905 ~  CQ HB9EFK JN46",
+    "145845  -5  0.2 1752 ~  UZ1WW IK4IDF JN54",
+    "145845 -13  0.3 2361 ~  CQ MI0JZZ IO65"
+   ]
+  },
+  {
+   "url": "http://dupont.proxy.kiwisdr.com:8073/",
+   "band": "15m",
+   "freq_khz": 21074.0,
+   "station": "WB2SRI / Georgetown / 0-30 MHz SDR | Washington, DC, USA",
+   "lat": 38.9103,
+   "lon": -77.0467,
+   "probe_decodes": 21,
+   "probe_sample": [
+    "145845  -1  0.3 1563 ~  K2MKR G4XEE R-22",
+    "145845  -9  0.3 2100 ~  OE4OIW K9SQ RR73",
+    "145845  -6  0.3  853 ~  IK1NPP KA0BOJ -19",
+    "145845  -1  0.3 1165 ~  KH8A DA6HFS JN59",
+    "145845 -16  0.2 1353 ~  IU5SGW K5VYT -07"
+   ]
+  },
+  {
+   "url": "http://ohioswl.com:8073/",
+   "band": "17m",
+   "freq_khz": 18100.0,
+   "station": "0-30 mHz KiwiSDR & Wellbrook ALA1530LNP NA in Westerville Ohio, USA",
+   "lat": 40.1251,
+   "lon": -82.9315,
+   "probe_decodes": 15,
+   "probe_sample": [
+    "145845  -6  0.3 1350 ~  R9GM KE0RVP DM79",
+    "145845  13  0.3 2599 ~  <...> KN1B -10",
+    "145845  -3  0.4  932 ~  KJ5LDV VE4OK RR73",
+    "145845  -6  0.3  398 ~  G0OYR F5MXH JN07",
+    "145845   9  0.0 1664 ~  R9GM W5RF EM10"
+   ]
+  },
+  {
+   "url": "http://thalheim-3.proxy.kiwisdr.com:8073/",
+   "band": "10m",
+   "freq_khz": 28074.0,
+   "station": "0-30 MHz SDR, Thalheim, Schenkenberg, Switzerland",
+   "lat": 47.438841,
+   "lon": 8.105161,
+   "probe_decodes": 6,
+   "probe_sample": [
+    "145845  -4  0.2 2356 ~  DO8KHU WB8YJF -08",
+    "145845 -13  1.0 1082 ~  CQ LZ3SU KN32",
+    "145845 -11  0.8 1172 ~  W8LIG LZ1DD KN12",
+    "145845  -9 -0.3  642 ~  N1DRS EA7Z IM67",
+    "145845 -13  0.4  459 ~  LA2GTA EA5ET IM99"
+   ]
+  },
+  {
+   "url": "http://22372.proxy.kiwisdr.com:8073/",
+   "band": "17m",
+   "freq_khz": 18100.0,
+   "station": "KiwiSDR - 0-30 MHz  | Gedern, Hessen, Germany",
+   "lat": 50.406128,
+   "lon": 9.195654,
+   "probe_decodes": 12,
+   "probe_sample": [
+    "145845   2  0.2 1526 ~  CQ EA4IJS IN80",
+    "145845  -4  0.3 2342 ~  CQ NE8Z EN82",
+    "145845  17  0.2  601 ~  <...> YO4RST R-01",
+    "145845  -5  0.3 2033 ~  KC1JOL RW3SK R-20",
+    "145845 -18  0.3 1822 ~  AC3LW R7SF KN86"
+   ]
+  },
+  {
+   "url": "http://95.88.77.200:8073/",
+   "band": "15m",
+   "freq_khz": 21074.0,
+   "station": "0-30 MHz, DL2BQA, Neustadt, Rheinland-Pfalz, Germany",
+   "lat": 49.35,
+   "lon": 8.16,
+   "probe_decodes": 6,
+   "probe_sample": [
+    "145845   5  0.1 2407 ~  HC1M RW3XZ KO85",
+    "145845  -3  0.2  818 ~  NP3RK UA3ZUX KO90",
+    "145845 -21  0.7 1947 ~  CO8TW RX3AJM KO85",
+    "145845 -15  0.2 2302 ~  DL7PH R1AV R-06",
+    "145845 -19  0.2  239 ~  CQ N3XX EM72"
+   ]
+  },
+  {
+   "url": "http://82.64.206.44:8073/",
+   "band": "12m",
+   "freq_khz": 24915.0,
+   "station": "0-30 MHz SDR Auxerre France",
+   "lat": 47.933863,
+   "lon": 3.591045,
+   "probe_decodes": 5,
+   "probe_sample": [
+    "145845  -7  0.2  239 ~  LZ1JZ K2ZJ FN13",
+    "145845 -15  0.3 1375 ~  LX1LW KF5TL 73",
+    "145845  -4  0.1 2625 ~  LX1LW KF9UG EN71",
+    "145845 -24  0.3 1366 ~  LZ1JZ KQ5U EM20",
+    "145845 -23  0.3 2233 ~  CQ ZS4JAN KG30                        a1"
+   ]
+  }
+ ]
+}

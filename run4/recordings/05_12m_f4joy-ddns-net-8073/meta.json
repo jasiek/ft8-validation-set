@@ -1,0 +1,17 @@
+{
+ "url": "http://f4joy.ddns.net:8073/",
+ "band": "12m",
+ "freq_khz": 24915.0,
+ "station": "ENJOY BY F4JOY | PRADIERS DEP 15 JN15LG, FRANCE",
+ "lat": 45.269722,
+ "lon": 2.924131,
+ "probe_decodes": 27,
+ "probe_sample": [
+  "145845  -5  0.2 2085 ~  VA1DUL SM3HZA R-19",
+  "145845  -8  0.3 2314 ~  CQ ZS4JAN KG30",
+  "145845  12  0.3 1455 ~  LX1LW KF5TL 73",
+  "145845  20  0.1 2705 ~  LX1LW KF9UG EN71",
+  "145845  -3  0.3 1052 ~  CQ HB9EFK JN46"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/05_12m_f4joy-ddns-net-8073"
+}

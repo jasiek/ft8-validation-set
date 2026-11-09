@@ -1,0 +1,17 @@
+{
+ "url": "http://kiwieriz.7355.ch:8073/",
+ "band": "20m",
+ "freq_khz": 14074.0,
+ "station": "Eriz - Berner Oberland - Schweiz  \ud83c\udde8\ud83c\udded\ud83c\udde8\ud83c\udded\ud83c\udde8\ud83c\udded",
+ "lat": 46.79201,
+ "lon": 7.741238,
+ "probe_decodes": 31,
+ "probe_sample": [
+  "145845   8  0.4 2625 ~  CQ E70A JN94",
+  "145845   0  0.3  330 ~  CQ SA4AGM JP70",
+  "145845   3  0.7 1327 ~  CQ M7IUN IO93",
+  "145845 -13  0.5 1903 ~  CQ NF3R FN20",
+  "145845   0  0.4  421 ~  CQ G4DZE IO92"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/07_20m_kiwieriz-7355-ch-8073"
+}

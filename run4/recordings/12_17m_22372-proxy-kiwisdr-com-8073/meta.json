@@ -1,0 +1,17 @@
+{
+ "url": "http://22372.proxy.kiwisdr.com:8073/",
+ "band": "17m",
+ "freq_khz": 18100.0,
+ "station": "KiwiSDR - 0-30 MHz  | Gedern, Hessen, Germany",
+ "lat": 50.406128,
+ "lon": 9.195654,
+ "probe_decodes": 12,
+ "probe_sample": [
+  "145845   2  0.2 1526 ~  CQ EA4IJS IN80",
+  "145845  -4  0.3 2342 ~  CQ NE8Z EN82",
+  "145845  17  0.2  601 ~  <...> YO4RST R-01",
+  "145845  -5  0.3 2033 ~  KC1JOL RW3SK R-20",
+  "145845 -18  0.3 1822 ~  AC3LW R7SF KN86"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/12_17m_22372-proxy-kiwisdr-com-8073"
+}

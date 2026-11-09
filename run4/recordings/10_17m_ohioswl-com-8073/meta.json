@@ -1,0 +1,17 @@
+{
+ "url": "http://ohioswl.com:8073/",
+ "band": "17m",
+ "freq_khz": 18100.0,
+ "station": "0-30 mHz KiwiSDR & Wellbrook ALA1530LNP NA in Westerville Ohio, USA",
+ "lat": 40.1251,
+ "lon": -82.9315,
+ "probe_decodes": 15,
+ "probe_sample": [
+  "145845  -6  0.3 1350 ~  R9GM KE0RVP DM79",
+  "145845  13  0.3 2599 ~  <...> KN1B -10",
+  "145845  -3  0.4  932 ~  KJ5LDV VE4OK RR73",
+  "145845  -6  0.3  398 ~  G0OYR F5MXH JN07",
+  "145845   9  0.0 1664 ~  R9GM W5RF EM10"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/10_17m_ohioswl-com-8073"
+}

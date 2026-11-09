@@ -1,0 +1,77 @@
+09:58:39 356 fresh distinct-site kiwis pass status checks
+09:58:39 probing 60 (receiver, band) pairs in parallel
+09:59:18    39 20m  http://80.218.128.11:8073/  (Zuerich, local 15.5h)
+09:59:18    36 17m  http://94.212.77.133:8073/  (PE1OPQ | Netherlands, local 15.4h)
+09:59:18    35 15m  http://s57bit.proxy.kiwisdr.com:8073/  (0-32 MHz SDR, S5/S57BIT, Slovenia, local 15.9h)
+09:59:18    32 10m  http://gw0kax.proxy.kiwisdr.com:8073/  (North Bridgend SDR 0-30MHz, local 14.7h)
+09:59:18    31 20m  http://kiwieriz.7355.ch:8073/  (Eriz - Berner Oberland - Schweiz  🇨🇭🇨🇭🇨🇭, local 15.5h)
+09:59:18    27 40m  http://ve6hfd.proxy.kiwisdr.com:8073/  (0-30 MHz SDR, VE6HFD Hanna, Alberta, local 7.5h)
+09:59:18    27 12m  http://f4joy.ddns.net:8073/  (ENJOY BY F4JOY | PRADIERS DEP 15 JN15LG,, local 15.2h)
+09:59:18    24 12m  http://n9azz.proxy.kiwisdr.com:8073/  (N9AZZ 0-30 MHz SDR | Carterville, IL. US, local 9.0h)
+09:59:18    21 15m  http://dupont.proxy.kiwisdr.com:8073/  (WB2SRI / Georgetown / 0-30 MHz SDR | Was, local 9.8h)
+09:59:18    15 17m  http://ohioswl.com:8073/  (0-30 mHz KiwiSDR & Wellbrook ALA1530LNP , local 9.5h)
+09:59:18    12 17m  http://22372.proxy.kiwisdr.com:8073/  (KiwiSDR - 0-30 MHz  | Gedern, Hessen, Ge, local 15.6h)
+09:59:18     6 80m  http://22052.proxy.kiwisdr.com:8073/  (0-30 MHz SDR AT JA4YUF | OKAYAMA,JAPAN, local 23.9h)
+09:59:18     6 15m  http://95.88.77.200:8073/  (0-30 MHz, DL2BQA, Neustadt, Rheinland-Pf, local 15.5h)
+09:59:18     6 10m  http://thalheim-3.proxy.kiwisdr.com:8073/  (0-30 MHz SDR, Thalheim, Schenkenberg, Sw, local 15.5h)
+09:59:18     5 12m  http://82.64.206.44:8073/  (0-30 MHz SDR Auxerre France, local 15.2h)
+09:59:18     3 40m  http://km6cq.hopto.org:8073/  (KM6CQ Ponderosa SDR .1-30 MHz | Washoe V, local 7.0h)
+09:59:18     1 80m  http://vk3zfs.proxy.kiwisdr.com:8073/  (Frank in Ballarat Testing , local 0.6h)
+09:59:18     1 12m  http://kiwi.sdr.audio:8073/  (0-30 MHz SDR | Indian Harbour Beach, Flo, local 9.6h)
+09:59:18     0 160m http://kiwisdr3.owdjim.gen.nz:8077/  (Marahau, Tasman Bay, New Zealand, local 2.5h)  KiwiError('unsupported sample rate 20250.862095 (wideband kiwi?)')
+09:59:18     0 160m http://tassyjim.ddns.net:8073/  (0-30 MHz SDR | Stowport, Tasmania, AU, local 0.7h)
+09:59:18     0 160m http://sdr.zl2ja.org:8073/  (0.3 - 30 MHz SDR | Wanganui, New Zealand, local 2.7h)
+09:59:18     0 160m http://sdr.zapto.org:8073/  (0-30 MHz SDR, ZL2QF - Banch 87, New Zeal, local 2.6h)
+09:59:18     0 160m http://vk4een.proxy.kiwisdr.com:8073/  (VK4UL/VK4EEN/ZL1EM | Godwin beach, Brisb, local 1.2h)
+09:59:18     0 80m  http://zl3rck.proxy.kiwisdr.com:8073/  (KiwiSDR2 | ZL3RCK QTH: White Rock, North, local 2.5h)
+09:59:18     0 80m  http://os.f5.si:8073/  (0-30 MHz SDR, Rio, Osaka, Japan, local 0.0h)
+09:59:18     0 80m  http://22537.proxy.kiwisdr.com:8073/  (VK4KY 0-30 MHz SDR | Esk, Queensland, Au, local 1.1h)
+09:59:18     0 60m  http://21762.proxy.kiwisdr.com:8073/  (KG7PD Kiwi2 SDR | Lynnwood, WA USA, local 6.8h)
+09:59:18     0 60m  https://www.kiwi.egimoto.com/  (OE3GAS KiwiSDR 0-30 MHz | Hollabrunn, Lo, local 16.1h)
+09:59:18     0 60m  http://mtkiwi.proxy.kiwisdr.com:8073/  (0-30 MHz SDR | Stevensville, MT, local 7.4h)
+09:59:18     0 60m  http://rhakiwi.ddns.net:8074/  (RHA Raisio SDR, Finland, local 16.5h)
+09:59:18     0 40m  http://kw5usa.proxy.kiwisdr.com:8073/  (0-30 MHz SDR | Loveland, Colorado, local 8.0h)  KiwiError('too_busy=1')
+09:59:18     0 40m  http://porky.dahlbros.net:8074/  (ve6ars kiwi #2, local 7.4h)
+09:59:18     0 30m  http://21987.proxy.kiwisdr.com:8073/  (0-30 MHz SDR | Baghdad, IRAQ, local 17.9h)
+09:59:18     0 30m  http://kr6la.proxy.kiwisdr.com:8073/  (0-30 MHz SDR, northern California USA, local 6.9h)  KiwiError('too_busy=2')
+09:59:18     0 30m  http://180.150.26.140:8073/  (0-30 MHz KiwiSDR, VK2KTJ, Australia, local 1.0h)
+09:59:18     0 20m  http://croton.proxy.kiwisdr.com:8073/  (0-30 MHz SDR | croton | Plymouth, MN, local 8.8h)
+09:59:18     0 20m  http://skhicks.proxy.kiwisdr.com:8073/  (0-30 MHz SDR | Lubbock, TX, USA, local 8.2h)  KiwiError('unsupported sample rate 20250.72112 (wideband kiwi?)')
+09:59:18     0 20m  http://21662.proxy.kiwisdr.com:8073/  (0-30 MHz SDR KF8KK-1 (of 2) | Empire, Mi, local 9.3h)
+09:59:18     0 20m  http://21310.proxy.kiwisdr.com:8073/  (0-30 MHz SDR | Big Bend Florida, local 9.4h)
+09:59:18     0 15m  http://21793.proxy.kiwisdr.com:8073/  (0-30 MHz SDR | Kirk Michael, Isle of Man, local 14.7h)
+09:59:18     0 15m  http://22204.proxy.kiwisdr.com:8073/  (K4MIE 0-30 MHz SDR | Huntsville Alabama , local 9.2h)
+09:59:18     0 15m  http://paraguay.proxy.kiwisdr.com:8073/  (0-30 MHz  Paraguay KiwiSDR, local 11.1h)
+09:59:18     0 12m  http://162.199.177.108:8073/  (0-30 MHz SDR | COVENTRY, TWP., OH, local 9.5h)  KiwiError('unsupported sample rate 20250.880923 (wideband kiwi?)')
+09:59:18     0 12m  http://22366.proxy.kiwisdr.com:8073/  (MARO-Roberto | PARADISO-LUGANO - SWITZER, local 15.6h)
+09:59:18     0 10m  http://kiwisdr-mg.dyndns.org:8073/  (0-30 MHz SDR, DQA647 | Moenchengladbach,, local 15.4h)  KiwiError('too_busy=1')
+09:59:18     0 10m  http://21804.proxy.kiwisdr.com:8073/  (GM4RIV Stranraer, local 14.6h)
+09:59:18     0 10m  http://21470.proxy.kiwisdr.com:8073/  (W4BF  0-30 MHz SDR | Melbourne, FL  USA, local 9.6h)
+09:59:18     0 10m  http://21785.proxy.kiwisdr.com:8073/  (The UK's most easterly KiwiSDR | Lowesto, local 15.1h)
+09:59:18    -1 160m http://barossa.servebeer.com:8073/  (0-30 MHz SDR | Barossa Valley | Angaston, local 0.3h)  inactivity_timeout_mins=30
+09:59:18    -1 80m  http://125.185.245.16:8074/  (0-30 MHz KIWI SDR( 4ch ), HL5NTR, Daegu_, local 23.6h)  inactivity_timeout_mins=30
+09:59:18    -1 60m  http://kareliamwdx.ddns.net:8074/  (Karelia MW DX | Joensuu, Finland, local 17.0h)  inactivity_timeout_mins=30
+09:59:18    -1 60m  http://69.27.184.58:8073/  (KFS Omni KiwiSDR | Half Moon Bay, Califo, local 6.8h)  inactivity_timeout_mins=30
+09:59:18    -1 40m  http://www.yo3bn.ro:8073/  (The Real VLF-HF SDR Receiver 8KHz-30MHz , local 16.7h)  inactivity_timeout_mins=30
+09:59:18    -1 40m  http://warszawa.proxy.kiwisdr.com:8073/  (0-30 MHz SDR, | Poland, Warsaw, local 16.4h)  ip_limit_mins=30
+09:59:18    -1 30m  http://va6ok.ddns.net:8073/  (0-30 MHz SDR | Coronation, Alberta, Cana, local 7.6h)  inactivity_timeout_mins=30
+09:59:18    -1 30m  http://188.117.243.84:8073/  (0-30 MHz SDR -  ELEKTRON - THESSALONIKI,, local 16.5h)  inactivity_timeout_mins=30
+09:59:18    -1 30m  http://ja2jvc.ddns.net:8073/  (0-30 MHz SDR | Mishima, Japan, local 0.2h)  inactivity_timeout_mins=30
+09:59:18    -1 17m  http://remoteradio.myddns.me:8085/  (Bedford UK 0-30 MHz V1 KiwiSDR, local 15.0h)  inactivity_timeout_mins=15
+09:59:18    -1 17m  http://gw0kig.ddns.net:8073/  (0-30 MHz SDR | Merthyr Tydfil, South Wal, local 14.8h)  inactivity_timeout_mins=30
+09:59:18    -1 17m  http://80.119.208.227:8073/  (0-30 MHz SDR, 14HAM01 / Daviken - Chanti, local 15.1h)  inactivity_timeout_mins=30
+09:59:18 chosen 20m   39  http://80.218.128.11:8073/  Zuerich
+09:59:18 chosen 17m   36  http://94.212.77.133:8073/  PE1OPQ | Netherlands
+09:59:18 chosen 15m   35  http://s57bit.proxy.kiwisdr.com:8073/  0-32 MHz SDR, S5/S57BIT, Slovenia
+09:59:18 chosen 10m   32  http://gw0kax.proxy.kiwisdr.com:8073/  North Bridgend SDR 0-30MHz
+09:59:18 chosen 40m   27  http://ve6hfd.proxy.kiwisdr.com:8073/  0-30 MHz SDR, VE6HFD Hanna, Alberta
+09:59:18 chosen 12m   27  http://f4joy.ddns.net:8073/  ENJOY BY F4JOY | PRADIERS DEP 15 JN15LG, FRAN
+09:59:18 chosen 80m    6  http://22052.proxy.kiwisdr.com:8073/  0-30 MHz SDR AT JA4YUF | OKAYAMA,JAPAN
+09:59:18 chosen 20m   31  http://kiwieriz.7355.ch:8073/  Eriz - Berner Oberland - Schweiz  🇨🇭🇨🇭🇨🇭
+09:59:18 chosen 12m   24  http://n9azz.proxy.kiwisdr.com:8073/  N9AZZ 0-30 MHz SDR | Carterville, IL. USA
+09:59:18 chosen 15m   21  http://dupont.proxy.kiwisdr.com:8073/  WB2SRI / Georgetown / 0-30 MHz SDR | Washingt
+09:59:18 chosen 17m   15  http://ohioswl.com:8073/  0-30 mHz KiwiSDR & Wellbrook ALA1530LNP NA in
+09:59:18 chosen 10m    6  http://thalheim-3.proxy.kiwisdr.com:8073/  0-30 MHz SDR, Thalheim, Schenkenberg, Switzer
+09:59:18 chosen 17m   12  http://22372.proxy.kiwisdr.com:8073/  KiwiSDR - 0-30 MHz  | Gedern, Hessen, Germany
+09:59:18 chosen 15m    6  http://95.88.77.200:8073/  0-30 MHz, DL2BQA, Neustadt, Rheinland-Pfalz, 
+09:59:18 chosen 12m    5  http://82.64.206.44:8073/  0-30 MHz SDR Auxerre France

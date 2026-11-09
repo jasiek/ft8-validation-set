@@ -1,0 +1,17 @@
+{
+ "url": "http://thalheim-3.proxy.kiwisdr.com:8073/",
+ "band": "10m",
+ "freq_khz": 28074.0,
+ "station": "0-30 MHz SDR, Thalheim, Schenkenberg, Switzerland",
+ "lat": 47.438841,
+ "lon": 8.105161,
+ "probe_decodes": 6,
+ "probe_sample": [
+  "145845  -4  0.2 2356 ~  DO8KHU WB8YJF -08",
+  "145845 -13  1.0 1082 ~  CQ LZ3SU KN32",
+  "145845 -11  0.8 1172 ~  W8LIG LZ1DD KN12",
+  "145845  -9 -0.3  642 ~  N1DRS EA7Z IM67",
+  "145845 -13  0.4  459 ~  LA2GTA EA5ET IM99"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/11_10m_thalheim-3-proxy-kiwisdr-com-8073"
+}

@@ -1,0 +1,17 @@
+{
+ "url": "http://94.212.77.133:8073/",
+ "band": "17m",
+ "freq_khz": 18100.0,
+ "station": "PE1OPQ | Netherlands",
+ "lat": 53.08,
+ "lon": 6.8,
+ "probe_decodes": 36,
+ "probe_sample": [
+  "145845  -2  0.3 1775 ~  ON4BHQ WD8VN RR73",
+  "145845  -7  0.3 1826 ~  AC3LW R7SF KN86",
+  "145845  10  0.2 2037 ~  KC1JOL RW3SK R-20",
+  "145845  19  0.2  605 ~  <...> YO4RST R-01",
+  "145845 -13  0.5  209 ~  E75D W3GWM R-19"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/01_17m_94-212-77-133-8073"
+}

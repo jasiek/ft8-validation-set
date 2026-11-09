@@ -1,0 +1,17 @@
+{
+ "url": "http://ve6hfd.proxy.kiwisdr.com:8073/",
+ "band": "40m",
+ "freq_khz": 7074.0,
+ "station": "0-30 MHz SDR, VE6HFD Hanna, Alberta",
+ "lat": 51.63,
+ "lon": -111.99,
+ "probe_decodes": 27,
+ "probe_sample": [
+  "145845  10  0.1 2644 ~  VE6CV JA1IST PM52",
+  "145845  -4  0.3 1996 ~  BG0KD NT6V CM87",
+  "145845   0  0.2 2071 ~  5Z4VJ N1PPP CM89",
+  "145845  12  0.2 2851 ~  CQ JG3LGD PM74",
+  "145845  -7  0.2 1448 ~  CQ K6VHF DM43"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/04_40m_ve6hfd-proxy-kiwisdr-com-8073"
+}

@@ -1,0 +1,53 @@
+spots indexed: 1470034 for 8222 (band, call) pairs; reporters per band: 10m=1910, 12m=1088, 15m=1494, 17m=1058, 20m=2190, 40m=1767, 80m=589
+
+station                                    band   dec    slot  active  repeat  unconf     n/a  conf%
+00_20m_80-218-128-11-8073                   20m  4708    3672     826       0       3     207  99.9%
+01_17m_94-212-77-133-8073                   17m  3888    2854     991       0       1      42  100.0%
+02_15m_s57bit-proxy-kiwisdr-com-8073        15m  3803    2841     869       0       2      91  99.9%
+03_10m_gw0kax-proxy-kiwisdr-com-8073        10m  3394    2370     974       0       3      47  99.9%
+04_40m_ve6hfd-proxy-kiwisdr-com-8073        40m  2628    1972     618       0       1      37  100.0%
+05_12m_f4joy-ddns-net-8073                  12m  3692    2416    1194       0       3      79  99.9%
+06_80m_22052-proxy-kiwisdr-com-8073         80m   903     526     375       0       2       0  99.8%
+07_20m_kiwieriz-7355-ch-8073                20m  3679    2866     648       0       2     163  99.9%
+08_12m_n9azz-proxy-kiwisdr-com-8073         12m  3359    2258    1025       0       2      74  99.9%
+09_15m_dupont-proxy-kiwisdr-com-8073        15m  2319    1776     458       0       1      84  100.0%
+10_17m_ohioswl-com-8073                     17m  2138    1658     458       0       2      20  99.9%
+11_10m_thalheim-3-proxy-kiwisdr-com-8073    10m   894     656     205       0       1      32  99.9%
+12_17m_22372-proxy-kiwisdr-com-8073         17m  1520    1126     369       0       1      24  99.9%
+13_15m_95-88-77-200-8073                    15m   738     547     181       0       2       8  99.7%
+14_12m_82-64-206-44-8073                    12m   769     515     248       0       3       3  99.6%
+TOTAL                                           38432   28053    9439       0      29     911  99.9%
+
+of checkable decodes: slot-confirmed 74.8%, active-only 25.2%, repeat-only 0.0%, unconfirmed 0.1%
+per-receiver freq offset vs spots (Hz): 00=+81, 01=+0, 02=+0, 03=+0, 04=+0, 05=+0, 06=+0, 07=+0, 08=+138, 09=+0, 10=+0, 11=+0, 12=+2, 13=+0, 14=+73
+
+unconfirmed:
+  00_20m_80-218-128-11-8073      261109_150645  1237.0  WF1YMT L9IMF 539 7701
+  00_20m_80-218-128-11-8073      261109_150800  1114.0  CQ 7D7XFI BK16
+  00_20m_80-218-128-11-8073      261109_152715   906.0  CQ HH1UAD KD20
+  01_17m_94-212-77-133-8073      261109_152845  1499.0  CQ W9XYZ EN37
+  02_15m_s57bit-proxy-kiwisdr-co 261109_151400  2166.0  UV2NDJ/P P8UUF/P R DO00
+  02_15m_s57bit-proxy-kiwisdr-co 261109_151715  1334.0  N30CMH H42JRC QB72
+  03_10m_gw0kax-proxy-kiwisdr-co 261109_151145  2959.0  UN1QUJ CY7PNT 589 7077
+  03_10m_gw0kax-proxy-kiwisdr-co 261109_151845  2972.0  CQ IK6HFO JC81
+  03_10m_gw0kax-proxy-kiwisdr-co 261109_152245  1360.0  3J0HGB 4C1VQG AA68
+  04_40m_ve6hfd-proxy-kiwisdr-co 261109_151715   890.0  A8GCV YH1XVR GH37
+  05_12m_f4joy-ddns-net-8073     261109_150145   997.0  ZJ6LDS LL0LLS R GD31
+  05_12m_f4joy-ddns-net-8073     261109_150500  1602.0  OI7MQB K19LT R QR41
+  05_12m_f4joy-ddns-net-8073     261109_152430   931.0  SK5OCT R4MRJ R KI00
+  06_80m_22052-proxy-kiwisdr-com 261109_150715   583.0  OR4JLG K73FGI 549 1943
+  06_80m_22052-proxy-kiwisdr-com 261109_152530  2710.0  0V2IMH MH3UYX/P AM62
+  07_20m_kiwieriz-7355-ch-8073   261109_151515  1971.0  JW4YRW MS8VFT R KC78
+  07_20m_kiwieriz-7355-ch-8073   261109_152800  1796.0  <...> 217H MOM0IJ RR73
+  08_12m_n9azz-proxy-kiwisdr-com 261109_152215   395.0  CQ W3NAJ ED63
+  08_12m_n9azz-proxy-kiwisdr-com 261109_152245  2443.0  OE1DOI O1BUB 25D WCF
+  09_15m_dupont-proxy-kiwisdr-co 261109_152100  1962.0  CQ 5N5NA EM41
+  10_17m_ohioswl-com-8073        261109_152415  1096.0  IS6WON VU4XJ BH34
+  10_17m_ohioswl-com-8073        261109_152745  2534.0  CC2ULE WF2LUZ JI33
+  11_10m_thalheim-3-proxy-kiwisd 261109_152015  2789.0  V35BLU W82NUS 599 5229
+  12_17m_22372-proxy-kiwisdr-com 261109_152430  1536.0  PQ3REH EY7AEE PL82
+  13_15m_95-88-77-200-8073       261109_151800  2685.0  CQ K38BQ HL08
+  13_15m_95-88-77-200-8073       261109_151815   633.0  <...> RF74MU
+  14_12m_82-64-206-44-8073       261109_150430  2540.0  LQ8EIC NC6VAH R 599 5640
+  14_12m_82-64-206-44-8073       261109_151830   584.0  GA3MFB 7F8FBJ R MI32
+  14_12m_82-64-206-44-8073       261109_152830   818.0  CQ B33RQK DF04

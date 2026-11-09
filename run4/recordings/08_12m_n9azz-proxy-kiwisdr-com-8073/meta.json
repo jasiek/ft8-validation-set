@@ -1,0 +1,17 @@
+{
+ "url": "http://n9azz.proxy.kiwisdr.com:8073/",
+ "band": "12m",
+ "freq_khz": 24915.0,
+ "station": "N9AZZ 0-30 MHz SDR | Carterville, IL. USA",
+ "lat": 37.767983,
+ "lon": -89.118569,
+ "probe_decodes": 24,
+ "probe_sample": [
+  "145845  15  0.2 1363 ~  LX1LW N7PWZ DM33",
+  "145845  -6  0.2 1906 ~  HA7LJ XE2FGC RRR",
+  "145845  16  0.4  905 ~  CQ HB9EFK JN46",
+  "145845  -5  0.2 1752 ~  UZ1WW IK4IDF JN54",
+  "145845 -13  0.3 2361 ~  CQ MI0JZZ IO65"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/08_12m_n9azz-proxy-kiwisdr-com-8073"
+}

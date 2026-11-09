@@ -1,0 +1,69 @@
+09:59:18 recording 15 receivers from 14:59:30Z for 30 min; pskr topics ['10m', '12m', '15m', '17m', '20m', '40m', '80m']
+09:59:19 [pskr] connected, subscribed ['pskr/filter/v2/10m/FT8/#', 'pskr/filter/v2/12m/FT8/#', 'pskr/filter/v2/15m/FT8/#', 'pskr/filter/v2/17m/FT8/#', 'pskr/filter/v2/20m/FT8/#', 'pskr/filter/v2/40m/FT8/#', 'pskr/filter/v2/80m/FT8/#']
+10:00:20 [pskr] 33803 spots so far
+10:01:21 [pskr] 70906 spots so far
+10:02:21 [pskr] 107200 spots so far
+10:03:22 [pskr] 142156 spots so far
+10:04:22 [pskr] 175280 spots so far
+10:05:22 [pskr] 207909 spots so far
+10:06:23 [pskr] 244501 spots so far
+10:07:23 [pskr] 281732 spots so far
+10:08:23 [pskr] 315104 spots so far
+10:09:24 [pskr] 344614 spots so far
+10:10:24 [pskr] 382131 spots so far
+10:11:24 [pskr] 414067 spots so far
+10:12:25 [pskr] 448150 spots so far
+10:13:25 [pskr] 485704 spots so far
+10:14:25 [pskr] 519715 spots so far
+10:15:26 [pskr] 554892 spots so far
+10:16:26 [pskr] 590728 spots so far
+10:17:26 [pskr] 623554 spots so far
+10:18:27 [pskr] 661446 spots so far
+10:19:27 [pskr] 693586 spots so far
+10:20:28 [pskr] 733345 spots so far
+10:21:28 [pskr] 766165 spots so far
+10:21:44 [http://ohioswl.com:8073/] stream error: timeout('timed out'); reconnecting in 5s
+10:22:28 [pskr] 800901 spots so far
+10:23:29 [pskr] 836334 spots so far
+10:24:29 [pskr] 871308 spots so far
+10:25:29 [pskr] 907324 spots so far
+10:26:30 [pskr] 941501 spots so far
+10:27:32 [pskr] 975023 spots so far
+10:28:32 [pskr] 1012929 spots so far
+10:29:19 [http://n9azz.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+10:29:19 [http://s57bit.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+10:29:19 [http://gw0kax.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+10:29:19 [http://22372.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+10:29:19 [http://ve6hfd.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+10:29:19 [http://22052.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+10:29:19 [http://dupont.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+10:29:19 [http://thalheim-3.proxy.kiwisdr.com:8073/] stream error: ConnectionError('connection closed'); reconnecting in 5s
+10:29:31 [01 17m] done: 120 slots
+10:29:31 [10 17m] done: 118 slots
+10:29:31 [04 40m] done: 119 slots
+10:29:31 [13 15m] done: 120 slots
+10:29:31 [00 20m] done: 120 slots
+10:29:31 [03 10m] done: 119 slots
+10:29:31 [09 15m] done: 119 slots
+10:29:31 [11 10m] done: 119 slots
+10:29:31 [05 12m] done: 120 slots
+10:29:31 [14 12m] done: 120 slots
+10:29:31 [07 20m] done: 120 slots
+10:29:31 [02 15m] done: 119 slots
+10:29:31 [12 17m] done: 119 slots
+10:29:31 [08 12m] done: 119 slots
+10:29:31 [06 80m] done: 119 slots
+10:29:31 audio done; waiting 720s more for late PSK Reporter uploads
+10:29:32 [pskr] 1046137 spots so far
+10:30:32 [pskr] 1083414 spots so far
+10:31:32 [pskr] 1116159 spots so far
+10:32:32 [pskr] 1151894 spots so far
+10:33:32 [pskr] 1185068 spots so far
+10:34:33 [pskr] 1221185 spots so far
+10:35:33 [pskr] 1257528 spots so far
+10:36:34 [pskr] 1295167 spots so far
+10:37:34 [pskr] 1332239 spots so far
+10:38:34 [pskr] 1367466 spots so far
+10:39:34 [pskr] 1406692 spots so far
+10:40:35 [pskr] 1442331 spots so far
+10:41:31 [pskr] done: 1472730 spots -> /Users/jps/tmp/ft8-validation-set/run4/pskr_spots.jsonl

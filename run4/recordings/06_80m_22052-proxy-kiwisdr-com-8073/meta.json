@@ -1,0 +1,17 @@
+{
+ "url": "http://22052.proxy.kiwisdr.com:8073/",
+ "band": "80m",
+ "freq_khz": 3573.0,
+ "station": "0-30 MHz SDR AT JA4YUF | OKAYAMA,JAPAN",
+ "lat": 34.577765,
+ "lon": 133.884727,
+ "probe_decodes": 6,
+ "probe_sample": [
+  "145845  -6  0.5 1501 ~  CQ BG4GNW PM00",
+  "145845   1  0.5 1653 ~  CQ BH3FZG OM89",
+  "145845  17  0.2 2832 ~  N2RSI JH4SLF RR73",
+  "145845  -8  0.2 1108 ~  CQ BA4OO OM96",
+  "145845   2  0.2  811 ~  CQ UA0YDB NO71"
+ ],
+ "dir": "/Users/jps/tmp/ft8-validation-set/run4/recordings/06_80m_22052-proxy-kiwisdr-com-8073"
+}
